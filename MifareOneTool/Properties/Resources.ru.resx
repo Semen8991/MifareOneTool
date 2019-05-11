@@ -226,6 +226,9 @@
   <data name="使用KeyA_是_或KeyB_否_还是不使用_用于全新白卡_" xml:space="preserve">
     <value>Использовать KeyA (да) или KeyB (нет) или нет (для новых белых карточек) (отменить)?</value>
   </data>
+  <data name="俄语" xml:space="preserve">
+    <value>Русский</value>
+  </data>
   <data name="共找到" xml:space="preserve">
     <value>найденный</value>
   </data>
@@ -400,6 +403,9 @@
   </data>
   <data name="本地版本" xml:space="preserve">
     <value>Версия - </value>
+  </data>
+  <data name="标准" xml:space="preserve">
+    <value>Китайский</value>
   </data>
   <data name="正在使用智能KeyABN" xml:space="preserve">
     <value>Использование Smart KeyABN ...</value>

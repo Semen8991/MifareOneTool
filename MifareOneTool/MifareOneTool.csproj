@@ -107,6 +107,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Form1.ru-RU.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form1.ru.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -201,6 +204,8 @@
   <ItemGroup>
     <Content Include="MifareOneTool_ml.xml" />
     <Content Include="nfc_128.ico" />
+    <None Include="Resources\round_chevron_right_black_24dp.png" />
+    <None Include="Resources\outline_arrow_forward_black_24dp.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

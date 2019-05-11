@@ -9834,6 +9834,22 @@ CUID карта</LanguageText>
     <ResourceName>comboBox1.Items1</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
+  <Properties>
+    <Component>Resources.resx</Component>
+    <Name>俄语</Name>
+    <StringID>338</StringID>
+    <Selected>true</Selected>
+    <ResourceName>俄语</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Resources.resx</Component>
+    <Name>标准</Name>
+    <StringID>337</StringID>
+    <Selected>true</Selected>
+    <ResourceName>标准</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
   <GeneralAttributes>
     <Name>XmlDatabaseVersion</Name>
     <TextValue>1</TextValue>
