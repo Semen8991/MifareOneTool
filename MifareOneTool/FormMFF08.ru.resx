@@ -117,53 +117,45 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="buttonClr.Text" xml:space="preserve">
-    <value>Очистить</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI, 9pt</value>
   </data>
-  <data name="buttonKeyWrite.Text" xml:space="preserve">
-    <value>Ремонт написать
-Есть пароль
-CUID карта</value>
-  </data>
-  <data name="buttonLoadKey.Text" xml:space="preserve">
-    <value>Loading ...</value>
-  </data>
-  <data name="buttonWriteEmpty.Text" xml:space="preserve">
-    <value>Ремонт написать
-Нет секретного бланка
-CUID карта</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>MFF08 Tool-CUID Ремонт инструмента</value>
-  </data>
-  <data name="groupBox1.Text" xml:space="preserve">
-    <value>объяснение</value>
-  </data>
-  <data name="groupBox2.Text" xml:space="preserve">
-    <value>операционная</value>
-  </data>
-  <data name="groupBox3.Text" xml:space="preserve">
-    <value>журнал</value>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>988, 45</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>Этот инструмент был слегка изменен с помощью nfc-mfclassic. Может быть использован для ремонта 0U блока карты размера 1K.
 Этот инструмент можно починить: неверный SAK (не распознанный тип карты), неправильный ATQA (не распознанный размер карты) и BCC невозможно записать неправильно.
 Пожалуйста, подготовьте файл данных карты, который вызвал последние 0 повреждений карты (если карта зашифрована).</value>
   </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>объяснение</value>
+  </data>
+  <data name="buttonClr.Text" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="buttonLoadKey.Text" xml:space="preserve">
+    <value>Loading ...</value>
+  </data>
+  <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>440, 13</value>
+  </data>
   <data name="label2.Text" xml:space="preserve">
     <value>В последний раз при записи карты получено 0 поврежденных файлов данных карты:</value>
   </data>
-  <data name="logBox.Lines[0]" xml:space="preserve">
-    <value>Когда все используют карту CUID, они всегда делают маленькие ошибки, потому что они не понимают или непреднамеренно.</value>
+  <data name="buttonKeyWrite.Text" xml:space="preserve">
+    <value>Ремонт написать
+Есть пароль
+CUID карта</value>
   </data>
-  <data name="logBox.Lines[1]" xml:space="preserve">
-    <value>Например, если редактор используется для изменения UID, но BCC не изменяется, файл, дешифрованный картой SAK = 28, записывается напрямую или данные импортируются с карты S70 на карту 1K, но ATQA не исправляется.</value>
+  <data name="buttonWriteEmpty.Text" xml:space="preserve">
+    <value>Ремонт написать
+Нет секретного бланка
+CUID карта</value>
   </data>
-  <data name="logBox.Lines[2]" xml:space="preserve">
-    <value>Инструмент MFF08 дает вам возможность исправить эти поврежденные карты сразу.</value>
-  </data>
-  <data name="logBox.Lines[3]" xml:space="preserve">
-    <value>-------------------------------------------------- ----------------------</value>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>операционная</value>
   </data>
   <data name="logBox.Text" xml:space="preserve">
     <value>Когда все используют карту CUID, они всегда делают маленькие ошибки, потому что они не понимают или непреднамеренно.
@@ -172,11 +164,11 @@ CUID карта</value>
 -------------------------------------------------- ----------------------
 
 </value>
-    <comment>Previous text: 每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
-比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
-MFF08工具给了你一次修复这些损坏卡片的机会。
-------------------------------------------------------------------------
-
-</comment>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>журнал</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>MFF08 Tool-CUID Ремонт инструмента</value>
   </data>
 </root>

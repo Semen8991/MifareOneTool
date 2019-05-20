@@ -15,6 +15,8 @@ using Microsoft.VisualBasic;
 using System.Reflection;
 using System.Runtime.InteropServices;
 using System.Globalization;
+using AutoUpdaterDotNET;
+
 
 namespace MifareOneTool
 {
@@ -22,6 +24,7 @@ namespace MifareOneTool
     {
         public Form1()
         {
+            AutoUpdater.Start("https://www.dropbox.com/s/pypkhnzzlutdhsq/MifareOneTool.xml?dl=1");
             System.Threading.Thread.CurrentThread.CurrentUICulture = CultureInfo.GetCultureInfo(Properties.Settings.Default.Language);
             System.Threading.Thread.CurrentThread.CurrentCulture = CultureInfo.GetCultureInfo(Properties.Settings.Default.Language);
             InitializeComponent();
@@ -1383,18 +1386,34 @@ namespace MifareOneTool
         }
         void Hardnest(object sender, DoWorkEventArgs e)
         {
-            Process psi = new Process();
-            psi.StartInfo = new ProcessStartInfo(@"nfc-bin\cropto1_bs.exe");
-            psi.StartInfo.Arguments = (string)e.Argument;
-            psi.StartInfo.UseShellExecute = false;
-            psi.StartInfo.RedirectStandardOutput = true;
-            psi.StartInfo.CreateNoWindow = true;
-            psi.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-            psi.OutputDataReceived += new DataReceivedEventHandler(SortOutputHandler);
-            psi.Start();
-            psi.BeginOutputReadLine();
-    }
-        
+            if (lprocess) { return; }
+            ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/cropto1_bs.exe");
+            psi.Arguments = (string)e.Argument;
+            psi.CreateNoWindow = true;
+            psi.UseShellExecute = false;
+            psi.RedirectStandardOutput = true;
+            psi.RedirectStandardError = true;
+            lprocess = true;
+            BackgroundWorker b = (BackgroundWorker)sender;
+            process = Process.Start(psi);
+            b.ReportProgress(0, Resources.开始执行HardNested解密强化卡); running = true;
+            process.OutputDataReceived += new DataReceivedEventHandler(SortOutputHandler);
+            process.ErrorDataReceived += new DataReceivedEventHandler(SortOutputHandler);
+            //StreamReader stderr = process.StandardError;
+            process.BeginOutputReadLine();
+            process.BeginErrorReadLine();
+            process.WaitForExit();
+            lprocess = false; running = false;
+            if (process.ExitCode == 0)
+            {
+                b.ReportProgress(100, Resources._运行完毕);
+            }
+            else
+            {
+                b.ReportProgress(100, Resources._运行出错);
+            }
+        }
+
 
         private void checkBoxAutoLoadKey_CheckedChanged(object sender, EventArgs e)
         {
@@ -1571,6 +1590,15 @@ namespace MifareOneTool
             System.Diagnostics.Process Go = new System.Diagnostics.Process();
             Go.StartInfo.FileName = @"libusb\libusbK-inf-wizard.exe";
             Go.Start();
+        }
+        private void runTimeLabel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void flowLayoutPanel18_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

@@ -47,8 +47,8 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.label1);
             resources.ApplyResources(this.groupBox1, "groupBox1");
+            this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.TabStop = false;
             // 
@@ -60,13 +60,13 @@
             // 
             // groupBox2
             // 
+            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.Controls.Add(this.buttonClr);
             this.groupBox2.Controls.Add(this.buttonLoadKey);
             this.groupBox2.Controls.Add(this.keyfileBox);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Controls.Add(this.buttonKeyWrite);
             this.groupBox2.Controls.Add(this.buttonWriteEmpty);
-            resources.ApplyResources(this.groupBox2, "groupBox2");
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.TabStop = false;
             // 
@@ -110,15 +110,15 @@
             // 
             // groupBox3
             // 
-            this.groupBox3.Controls.Add(this.logBox);
             resources.ApplyResources(this.groupBox3, "groupBox3");
+            this.groupBox3.Controls.Add(this.logBox);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.TabStop = false;
             // 
             // logBox
             // 
-            this.logBox.BackColor = System.Drawing.Color.Black;
             resources.ApplyResources(this.logBox, "logBox");
+            this.logBox.BackColor = System.Drawing.Color.Black;
             this.logBox.ForeColor = System.Drawing.Color.Gold;
             this.logBox.Name = "logBox";
             this.logBox.ReadOnly = true;

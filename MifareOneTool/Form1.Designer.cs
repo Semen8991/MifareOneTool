@@ -157,6 +157,9 @@
             this.groupBox11 = new System.Windows.Forms.GroupBox();
             this.flowLayoutPanel3 = new System.Windows.Forms.FlowLayoutPanel();
             this.checkBoxHardLowCost = new System.Windows.Forms.CheckBox();
+            this.groupBox17 = new System.Windows.Forms.GroupBox();
+            this.flowLayoutPanel25 = new System.Windows.Forms.FlowLayoutPanel();
+            this.button1 = new System.Windows.Forms.Button();
             this.imageList2 = new System.Windows.Forms.ImageList(this.components);
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
             this.statusLabel = new System.Windows.Forms.ToolStripStatusLabel();
@@ -165,9 +168,6 @@
             this.curDevice = new System.Windows.Forms.ToolStripStatusLabel();
             this.toolStripCheckUpdate = new System.Windows.Forms.ToolStripSplitButton();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
-            this.groupBox17 = new System.Windows.Forms.GroupBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.flowLayoutPanel25 = new System.Windows.Forms.FlowLayoutPanel();
             this.groupBox1.SuspendLayout();
             this.tableLayoutPanel5.SuspendLayout();
             this.flowLayoutPanel12.SuspendLayout();
@@ -232,9 +232,9 @@
             this.flowLayoutPanel4.SuspendLayout();
             this.groupBox11.SuspendLayout();
             this.flowLayoutPanel3.SuspendLayout();
-            this.statusStrip1.SuspendLayout();
             this.groupBox17.SuspendLayout();
             this.flowLayoutPanel25.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -980,6 +980,7 @@
             this.flowLayoutPanel18.Controls.Add(this.buttonDictMfoc);
             this.flowLayoutPanel18.Controls.Add(this.buttonHardNested);
             this.flowLayoutPanel18.Name = "flowLayoutPanel18";
+            this.flowLayoutPanel18.Paint += new System.Windows.Forms.PaintEventHandler(this.flowLayoutPanel18_Paint);
             // 
             // buttonHardNested
             // 
@@ -1199,7 +1200,7 @@
             // 
             resources.ApplyResources(this.buttonCLIColor, "buttonCLIColor");
             this.buttonCLIColor.BackColor = System.Drawing.Color.AliceBlue;
-            this.buttonCLIColor.ForeColor = System.Drawing.Color.DarkRed;
+            this.buttonCLIColor.ForeColor = System.Drawing.Color.Black;
             this.buttonCLIColor.Name = "buttonCLIColor";
             this.buttonCLIColor.UseVisualStyleBackColor = false;
             this.buttonCLIColor.Click += new System.EventHandler(this.buttonCLIColor_Click);
@@ -1362,6 +1363,31 @@
             this.checkBoxHardLowCost.UseVisualStyleBackColor = true;
             this.checkBoxHardLowCost.CheckedChanged += new System.EventHandler(this.checkBoxHardLowCost_CheckedChanged);
             // 
+            // groupBox17
+            // 
+            resources.ApplyResources(this.groupBox17, "groupBox17");
+            this.groupBox17.BackColor = System.Drawing.Color.DodgerBlue;
+            this.groupBox17.Controls.Add(this.flowLayoutPanel25);
+            this.groupBox17.ForeColor = System.Drawing.Color.White;
+            this.groupBox17.Name = "groupBox17";
+            this.groupBox17.TabStop = false;
+            // 
+            // flowLayoutPanel25
+            // 
+            resources.ApplyResources(this.flowLayoutPanel25, "flowLayoutPanel25");
+            this.flowLayoutPanel25.BackColor = System.Drawing.Color.White;
+            this.flowLayoutPanel25.Controls.Add(this.button1);
+            this.flowLayoutPanel25.Name = "flowLayoutPanel25";
+            // 
+            // button1
+            // 
+            resources.ApplyResources(this.button1, "button1");
+            this.button1.BackColor = System.Drawing.Color.DodgerBlue;
+            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.DodgerBlue;
+            this.button1.Name = "button1";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // imageList2
             // 
             this.imageList2.ImageStream = ((System.Windows.Forms.ImageListStreamer)(resources.GetObject("imageList2.ImageStream")));
@@ -1398,6 +1424,7 @@
             resources.ApplyResources(this.runTimeLabel, "runTimeLabel");
             this.runTimeLabel.Margin = new System.Windows.Forms.Padding(50, 0, 50, 0);
             this.runTimeLabel.Name = "runTimeLabel";
+            this.runTimeLabel.Click += new System.EventHandler(this.runTimeLabel_Click);
             // 
             // localVersionLabel
             // 
@@ -1426,31 +1453,6 @@
             // 
             this.timer1.Enabled = true;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // groupBox17
-            // 
-            resources.ApplyResources(this.groupBox17, "groupBox17");
-            this.groupBox17.BackColor = System.Drawing.Color.DodgerBlue;
-            this.groupBox17.Controls.Add(this.flowLayoutPanel25);
-            this.groupBox17.ForeColor = System.Drawing.Color.White;
-            this.groupBox17.Name = "groupBox17";
-            this.groupBox17.TabStop = false;
-            // 
-            // button1
-            // 
-            resources.ApplyResources(this.button1, "button1");
-            this.button1.BackColor = System.Drawing.Color.DodgerBlue;
-            this.button1.FlatAppearance.BorderColor = System.Drawing.Color.DodgerBlue;
-            this.button1.Name = "button1";
-            this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // flowLayoutPanel25
-            // 
-            resources.ApplyResources(this.flowLayoutPanel25, "flowLayoutPanel25");
-            this.flowLayoutPanel25.BackColor = System.Drawing.Color.White;
-            this.flowLayoutPanel25.Controls.Add(this.button1);
-            this.flowLayoutPanel25.Name = "flowLayoutPanel25";
             // 
             // Form1
             // 
@@ -1586,12 +1588,12 @@
             this.groupBox11.PerformLayout();
             this.flowLayoutPanel3.ResumeLayout(false);
             this.flowLayoutPanel3.PerformLayout();
-            this.statusStrip1.ResumeLayout(false);
-            this.statusStrip1.PerformLayout();
             this.groupBox17.ResumeLayout(false);
             this.groupBox17.PerformLayout();
             this.flowLayoutPanel25.ResumeLayout(false);
             this.flowLayoutPanel25.PerformLayout();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 

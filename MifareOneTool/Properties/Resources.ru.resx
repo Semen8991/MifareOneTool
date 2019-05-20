@@ -168,7 +168,7 @@
     <value>## Ошибка запуска ##</value>
   </data>
   <data name="_运行完毕" xml:space="preserve">
-    <value>##Операция завершена##</value>
+    <value>## Операция завершена ##</value>
   </data>
   <data name="AB文件中一个或两个无效" xml:space="preserve">
     <value>Один или два файла A/B недействительны.</value>
@@ -302,7 +302,7 @@
     <value>HardNested - сбор данных ...</value>
   </data>
   <data name="开始执行HardNested解密强化卡" xml:space="preserve">
-    <value>Запуск расшифровки HardNested...</value>
+    <value>Запуск расшифровки Cropto1...</value>
   </data>
   <data name="开始执行MFOC解密" xml:space="preserve">
     <value>Выполняется расшифровка MFOC ...</value>

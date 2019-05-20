@@ -423,15 +423,19 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   </GeneralIds>
   <GeneralIds>
     <StringID>138</StringID>
+    <Comment>Previous text: 每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>139</StringID>
+    <Comment>Previous text: 比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>140</StringID>
+    <Comment>Previous text: MFF08工具给了你一次修复这些损坏卡片的机会。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>141</StringID>
+    <Comment>Previous text: ------------------------------------------------------------------------</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>142</StringID>
@@ -1127,7 +1131,9 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   </GeneralIds>
   <GeneralIds>
     <StringID>364</StringID>
-    <Comment>Previous text: Китайский</Comment>
+    <Comment>Previous text: 中文
+
+</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>365</StringID>
@@ -1193,6 +1199,12 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   </GeneralIds>
   <GeneralIds>
     <StringID>385</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>386</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>387</StringID>
   </GeneralIds>
   <Languages>
     <LanguageID>30724</LanguageID>
@@ -2068,25 +2080,25 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>138</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。</LanguageText>
+    <LanguageText>Когда все используют карту CUID, они всегда делают маленькие ошибки, потому что они не понимают или непреднамеренно.</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>139</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。</LanguageText>
+    <LanguageText>Например, если редактор используется для изменения UID, но BCC не изменяется, файл, дешифрованный картой SAK = 28, записывается напрямую или данные импортируются с карты S70 на карту 1K, но ATQA не исправляется.</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>140</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>MFF08工具给了你一次修复这些损坏卡片的机会。</LanguageText>
+    <LanguageText>Инструмент MFF08 дает вам возможность исправить эти поврежденные карты сразу.</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>141</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>------------------------------------------------------------------------</LanguageText>
+    <LanguageText>-------------------------------------------------- ----------------------</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -3449,7 +3461,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>225</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>##Операция завершена##</LanguageText>
+    <LanguageText>## Операция завершена ##</LanguageText>
     <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -4608,25 +4620,25 @@ CUID карта</LanguageText>
     <StringID>138</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Когда все используют карту CUID, они всегда делают маленькие ошибки, потому что они не понимают или непреднамеренно.</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>139</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Например, если редактор используется для изменения UID, но BCC не изменяется, файл, дешифрованный картой SAK = 28, записывается напрямую или данные импортируются с карты S70 на карту 1K, но ATQA не исправляется.</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>140</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Инструмент MFF08 дает вам возможность исправить эти поврежденные карты сразу.</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>141</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>-------------------------------------------------- ----------------------</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>195</StringID>
@@ -4935,7 +4947,7 @@ CUID карта</LanguageText>
   <GeneralTexts>
     <StringID>284</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Запуск расшифровки HardNested...</LanguageText>
+    <LanguageText>Запуск расшифровки Cropto1...</LanguageText>
     <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -5581,7 +5593,7 @@ CUID карта</LanguageText>
     <StringID>364</StringID>
     <LanguageID>30724</LanguageID>
     <LanguageText>标准</LanguageText>
-    <Status>1</Status>
+    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>365</StringID>
@@ -5593,7 +5605,7 @@ CUID карта</LanguageText>
     <StringID>365</StringID>
     <LanguageID>30724</LanguageID>
     <LanguageText>俄语</LanguageText>
-    <Status>1</Status>
+    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>366</StringID>
@@ -5710,7 +5722,7 @@ CUID карта</LanguageText>
   <GeneralTexts>
     <StringID>380</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>button1</LanguageText>
+    <LanguageText>Установить драйвера libusb</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -5743,6 +5755,18 @@ CUID карта</LanguageText>
     <StringID>385</StringID>
     <LanguageID>30724</LanguageID>
     <LanguageText>Bitsliced Cropto-1</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>386</StringID>
+    <LanguageID>30724</LanguageID>
+    <LanguageText>Драйвера</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>387</StringID>
+    <LanguageID>30724</LanguageID>
+    <LanguageText>Китайский</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <Properties>
@@ -10402,34 +10426,16 @@ CUID карта</LanguageText>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
-    <Component>Form1.resx</Component>
-    <Name>comboBox1.Items</Name>
-    <StringID>337</StringID>
-    <Selected>true</Selected>
-    <ResourceName>comboBox1.Items</ResourceName>
-    <Hidden>false</Hidden>
-  </Properties>
-  <Properties>
-    <Component>Form1.resx</Component>
-    <Name>comboBox1.Items1</Name>
-    <StringID>338</StringID>
-    <Selected>true</Selected>
-    <ResourceName>comboBox1.Items1</ResourceName>
-    <Hidden>false</Hidden>
-  </Properties>
-  <Properties>
     <Component>Form1.cs</Component>
     <Name>comboBox1.Items[0]</Name>
-    <StringID>364</StringID>
-    <Selected>true</Selected>
+    <Selected>false</Selected>
     <ResourceName>comboBox1.Items</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Form1.cs</Component>
     <Name>comboBox1.Items[1]</Name>
-    <StringID>365</StringID>
-    <Selected>true</Selected>
+    <Selected>false</Selected>
     <ResourceName>comboBox1.Items1</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
@@ -10767,6 +10773,38 @@ CUID карта</LanguageText>
     <StringID>384</StringID>
     <Selected>true</Selected>
     <ResourceName>label7.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.resx</Component>
+    <Name>groupBox17.Text</Name>
+    <StringID>386</StringID>
+    <Selected>true</Selected>
+    <ResourceName>groupBox17.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.cs</Component>
+    <Name>groupBox17.Text</Name>
+    <StringID>386</StringID>
+    <Selected>true</Selected>
+    <ResourceName>groupBox17.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.resx</Component>
+    <Name>comboBox1.Items</Name>
+    <StringID>337</StringID>
+    <Selected>true</Selected>
+    <ResourceName>comboBox1.Items</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.resx</Component>
+    <Name>comboBox1.Items1</Name>
+    <StringID>338</StringID>
+    <Selected>true</Selected>
+    <ResourceName>comboBox1.Items1</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <GeneralAttributes>
