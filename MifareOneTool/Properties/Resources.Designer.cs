@@ -287,6 +287,46 @@ namespace MifareOneTool.Properties {
         }
         
         /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap apple_keyboard_command {
+            get {
+                object obj = ResourceManager.GetObject("apple_keyboard_command", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap check_all {
+            get {
+                object obj = ResourceManager.GetObject("check_all", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap chevron_right {
+            get {
+                object obj = ResourceManager.GetObject("chevron_right", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap content_save_outline {
+            get {
+                object obj = ResourceManager.GetObject("content_save_outline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на device.connstring = &quot;.
         /// </summary>
         public static string device_connstring {
@@ -315,6 +355,286 @@ namespace MifareOneTool.Properties {
         }
         
         /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap file_compare {
+            get {
+                object obj = ResourceManager.GetObject("file_compare", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap file_document_edit_outline {
+            get {
+                object obj = ResourceManager.GetObject("file_document_edit_outline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap format_clear {
+            get {
+                object obj = ResourceManager.GetObject("format_clear", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_arrow_decision_auto_outline_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_arrow_decision_auto_outline_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_arrow_right {
+            get {
+                object obj = ResourceManager.GetObject("ic_arrow_right", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_counter_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_counter_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_credit_card_plus_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_credit_card_plus_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_feature_search_outline_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_feature_search_outline_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_fingerprint_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_fingerprint_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_key_outline_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_key_outline_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_key_plus_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_key_plus_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_lock_outline_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_lock_outline_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_nfc_search_variant_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_nfc_search_variant_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_numeric_1_circle_outline_grey600_18dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_numeric_1_circle_outline_grey600_18dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_pencil_lock_outline_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_pencil_lock_outline_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_pencil_outline_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_pencil_outline_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_pencil_plus_outline_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_pencil_plus_outline_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap ic_pencil_remove_outline_grey600_24dp {
+            get {
+                object obj = ResourceManager.GetObject("ic_pencil_remove_outline_grey600_24dp", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_access_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_access_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_binary_file_24__1_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8_binary_file_24__1_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_countdown_clock_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_countdown_clock_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_credit_card_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_credit_card_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_data_encryption_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_data_encryption_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_delete_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_delete_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_edit_row_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_edit_row_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_file_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_file_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_key_2_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_key_2_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap icons8_wrench_24 {
+            get {
+                object obj = ResourceManager.GetObject("icons8_wrench_24", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Ищет локализованную строку, похожую на Information.
         /// </summary>
         public static string Information {
@@ -329,6 +649,15 @@ namespace MifareOneTool.Properties {
         public static string InputError {
             get {
                 return ResourceManager.GetString("InputError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на K=.
+        /// </summary>
+        public static string K {
+            get {
+                return ResourceManager.GetString("K", resourceCulture);
             }
         }
         
@@ -356,6 +685,16 @@ namespace MifareOneTool.Properties {
         public static string MCT格式 {
             get {
                 return ResourceManager.GetString("MCT格式", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap menu_right_outline {
+            get {
+                object obj = ResourceManager.GetObject("menu_right_outline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -428,6 +767,26 @@ namespace MifareOneTool.Properties {
         public static System.Drawing.Bitmap outline_info_black_18pt_1x {
             get {
                 object obj = ResourceManager.GetObject("outline_info_black_18pt_1x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap playlist_edit {
+            get {
+                object obj = ResourceManager.GetObject("playlist_edit", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap plus_circle_outline {
+            get {
+                object obj = ResourceManager.GetObject("plus_circle_outline", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -604,6 +963,36 @@ namespace MifareOneTool.Properties {
         public static System.Drawing.Bitmap round_update_black_24pt_1x {
             get {
                 object obj = ResourceManager.GetObject("round_update_black_24pt_1x", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap stop_circle_outline {
+            get {
+                object obj = ResourceManager.GetObject("stop_circle_outline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap trash_can_outline {
+            get {
+                object obj = ResourceManager.GetObject("trash_can_outline", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap trash_can_outline__2_ {
+            get {
+                object obj = ResourceManager.GetObject("trash_can_outline__2_", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

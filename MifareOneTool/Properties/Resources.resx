@@ -209,6 +209,9 @@
   <data name="InputError" xml:space="preserve">
     <value>InputError</value>
   </data>
+  <data name="K" xml:space="preserve">
+    <value>K=</value>
+  </data>
   <data name="KeyA_B_N" xml:space="preserve">
     <value>KeyA/B/N</value>
   </data>
@@ -640,5 +643,119 @@
   </data>
   <data name="round_update_black_24pt_1x" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\round_update_black_24pt_1x.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="apple_keyboard_command" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\apple-keyboard-command.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="check_all" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\check-all.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chevron_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chevron-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="format_clear" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\format-clear.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_access_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-access-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_binary_file_24__1_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-binary-file-24 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_countdown_clock_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-countdown-clock-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_credit_card_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-credit-card-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_data_encryption_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-data-encryption-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_edit_row_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-edit-row-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_file_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-file-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_key_2_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-key-2-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_arrow_decision_auto_outline_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_arrow_decision_auto_outline_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_arrow_right" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic-arrow-right.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_counter_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_counter_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_credit_card_plus_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_credit_card_plus_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_feature_search_outline_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_feature_search_outline_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_fingerprint_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_fingerprint_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_key_outline_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_key_outline_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_key_plus_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_key_plus_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_lock_outline_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_lock_outline_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_nfc_search_variant_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_nfc_search_variant_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_numeric_1_circle_outline_grey600_18dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_numeric_1_circle_outline_grey600_18dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_pencil_lock_outline_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_pencil_lock_outline_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_pencil_outline_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_pencil_outline_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_pencil_plus_outline_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_pencil_plus_outline_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ic_pencil_remove_outline_grey600_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ic_pencil_remove_outline_grey600_24dp.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="menu_right_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\menu-right-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="playlist_edit" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\playlist-edit.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="plus_circle_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\plus-circle-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="stop_circle_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\stop-circle-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trash_can_outline__2_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trash-can-outline (2).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="content_save_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\content-save-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="file_compare" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-compare.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="file_document_edit_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\file-document-edit-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_delete_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-delete-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="icons8_wrench_24" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\icons8-wrench-24.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="trash_can_outline" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\trash-can-outline.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

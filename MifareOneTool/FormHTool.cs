@@ -495,5 +495,10 @@ namespace MifareOneTool
         {
 
         }
+
+        private void 工具ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -122,24 +122,31 @@
   </data>
   <data name="button2.Text" xml:space="preserve">
     <value>B</value>
+    <comment>Previous text: В</comment>
   </data>
   <data name="button3.Text" xml:space="preserve">
     <value>比较</value>
+    <comment>Previous text: Сравнить</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>DiffTool</value>
+    <comment>Previous text: Сравнение дампов</comment>
   </data>
   <data name="richTextBox1.Lines[0]" xml:space="preserve">
     <value>欢迎使用M1T内置的差异工具！</value>
+    <comment>Previous text: Добро пожаловать во встроенный инструмент различий M1T!</comment>
   </data>
   <data name="richTextBox1.Lines[1]" xml:space="preserve">
     <value>说明：</value>
+    <comment>Previous text: Описание:</comment>
   </data>
   <data name="richTextBox1.Lines[2]" xml:space="preserve">
     <value>点击上方的AB两个按键分别选择MFD文件。</value>
+    <comment>Previous text: Нажмите две кнопки AB выше, чтобы выбрать файл MFD.</comment>
   </data>
   <data name="richTextBox1.Lines[3]" xml:space="preserve">
     <value>然后点击“比较”即可看到结果。</value>
+    <comment>Previous text: Затем нажмите «Сравнить», чтобы увидеть результаты.</comment>
   </data>
   <data name="richTextBox1.Text" xml:space="preserve">
     <value>欢迎使用M1T内置的差异工具！
@@ -147,11 +154,10 @@
 点击上方的AB两个按键分别选择MFD文件。
 然后点击“比较”即可看到结果。
 </value>
-    <comment>Previous text: 欢迎使用M1T内置的差异工具！
-说明：
-点击上方的AB两个按键分别选择MFD文件。
-然后点击“比较”即可看到结果。
-</comment>
+    <comment>Previous text: Добро пожаловать во встроенный инструмент сравнения дампов!
+Описание:
+1. Нажмите  А или В, чтобы выбрать файл MFD.
+2. Нажмите «Сравнить», чтобы увидеть результаты.</comment>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>

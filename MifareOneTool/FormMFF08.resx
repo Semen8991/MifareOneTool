@@ -119,39 +119,55 @@
   </resheader>
   <data name="buttonClr.Text" xml:space="preserve">
     <value>清除</value>
+    <comment>Previous text: Очистить</comment>
   </data>
   <data name="buttonKeyWrite.Text" xml:space="preserve">
     <value>修复写入
 有密码
 CUID卡</value>
+    <comment>Previous text: Ремонт написать
+Есть пароль
+CUID карта</comment>
   </data>
   <data name="buttonLoadKey.Text" xml:space="preserve">
     <value>加载…</value>
+    <comment>Previous text: Loading ...</comment>
   </data>
   <data name="buttonWriteEmpty.Text" xml:space="preserve">
     <value>修复写入
 无密空白
 CUID卡</value>
+    <comment>Previous text: Ремонт написать
+Нет секретного бланка
+CUID карта</comment>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>MFF08 Tool-CUID修复工具</value>
+    <comment>Previous text: MFF08 Tool-CUID Ремонт инструмента</comment>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
     <value>说明</value>
+    <comment>Previous text: объяснение</comment>
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
     <value>操作</value>
+    <comment>Previous text: операционная</comment>
   </data>
   <data name="groupBox3.Text" xml:space="preserve">
     <value>日志</value>
+    <comment>Previous text: журнал</comment>
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>本工具由nfc-mfclassic做少许修改而来。可用于1K大小CUID卡0块损坏的修复。
 本工具可以修复：SAK写错（不认卡类型）、ATQA写错（不认卡大小），对于BCC写错暂时无能为力。
 请准备好你最后一次写入该卡导致0块损坏的卡数据文件（如果卡片有加密）。</value>
+    <comment>Previous text: Этот инструмент был слегка изменен с помощью nfc-mfclassic. Может быть использован для ремонта 0U блока карты размера 1K.
+Этот инструмент можно починить: неверный SAK (не распознанный тип карты), неправильный ATQA (не распознанный размер карты) и BCC невозможно записать неправильно.
+Пожалуйста, подготовьте файл данных карты, который вызвал последние 0 повреждений карты (если карта зашифрована).</comment>
   </data>
   <data name="label2.Text" xml:space="preserve">
     <value>最后一次写卡导致0块损坏的卡数据文件：</value>
+    <comment>Previous text: В последний раз при записи карты получено 0 поврежденных файлов данных карты:</comment>
   </data>
   <data name="logBox.Lines[0]" xml:space="preserve">
     <value>Когда все используют карту CUID, они всегда делают маленькие ошибки, потому что они не понимают или непреднамеренно.</value>
@@ -176,10 +192,10 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
 ------------------------------------------------------------------------
 
 </value>
-    <comment>Previous text: 每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
-比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
-MFF08工具给了你一次修复这些损坏卡片的机会。
-------------------------------------------------------------------------
+    <comment>Previous text: Когда все используют карту CUID, они всегда делают маленькие ошибки, потому что они не понимают или непреднамеренно.
+Например, если редактор используется для изменения UID, но BCC не изменяется, файл, дешифрованный картой SAK = 28, записывается напрямую или данные импортируются с карты S70 на карту 1K, но ATQA не исправляется.
+Инструмент MFF08 дает вам возможность исправить эти поврежденные карты сразу.
+-------------------------------------------------- ----------------------
 
 </comment>
   </data>

@@ -167,6 +167,7 @@ namespace MifareOneTool
             richTextBox1.ScrollToCaret();
         }
 
+
         void list_dev(object sender, DoWorkEventArgs e)
         {
             if (lprocess) { return; }
@@ -187,7 +188,7 @@ namespace MifareOneTool
                 {
                     if (!string.IsNullOrEmpty(_e.Data))
                     {
-                        Match m = Regex.Match(_e.Data, "pn532_uart:COM\\d+:115200");
+                        Match m = Regex.Match(_e.Data, "pn532_uart:COMd+:115200");
                         if (m.Success)
                         {
                             myReader.Add(m.Value);
@@ -316,7 +317,7 @@ namespace MifareOneTool
                 {
                     logAppend(Resources.已找到_K + files[i]);
                     keymfd = files[i];
-                    buttonSelectKey.Text = "K=" + files[i];
+                    buttonSelectKey.Text = Resources.K + files[i];
                     return;
                 }
             }
@@ -423,7 +424,7 @@ namespace MifareOneTool
             if (ofd.ShowDialog() == DialogResult.OK)
             {
                 keymfd = ofd.FileName;
-                buttonSelectKey.Text = "K=" + ofd.SafeFileName;
+                buttonSelectKey.Text = Resources.K + ofd.SafeFileName;
             }
             else
             {
@@ -1588,7 +1589,7 @@ namespace MifareOneTool
         private void button1_Click(object sender, EventArgs e)
         {
             System.Diagnostics.Process Go = new System.Diagnostics.Process();
-            Go.StartInfo.FileName = @"libusb\libusbK-inf-wizard.exe";
+            Go.StartInfo.FileName = @"nfc-bin\zadig.exe";
             Go.Start();
         }
         private void runTimeLabel_Click(object sender, EventArgs e)
@@ -1600,5 +1601,10 @@ namespace MifareOneTool
         {
 
         }
+
+        private void button2_Click_1(object sender, EventArgs e)
+            {
+                MessageBox.Show("Для работы MFOC и Cropto1 необходимы драйвера libusbK.\r\n \r\n Инструкция по установке:\r\n 1.Нажите кнопку установки\r\n 2.Нажмите Параметры - Список всех устройств\r\n 3.Выберите считыватель, а в списке драйверов libusbK \r\n 4.Дождитесь окончания установки. Готово!\r\n \r\nИндикатор и звуковой сигнал на ACR122U не должны работать.", "Драйвера libusbK", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            }
+        }
     }
-}

@@ -185,6 +185,9 @@
   <data name="InputError" xml:space="preserve">
     <value>Ошибка ввода</value>
   </data>
+  <data name="K" xml:space="preserve">
+    <value>Файл ключей -</value>
+  </data>
   <data name="KeyA_B_N" xml:space="preserve">
     <value>Ключ A/B для новых карт</value>
   </data>
@@ -284,7 +287,7 @@
     <value>Открыт.</value>
   </data>
   <data name="已找到_K" xml:space="preserve">
-    <value>Файл ключа - </value>
+    <value>Файл ключей - </value>
   </data>
   <data name="已指定使用该NFC设备" xml:space="preserve">
     <value>Устройство NFC было указано для использования:</value>
@@ -426,7 +429,7 @@
     <value>Поиск key.mfd ...</value>
   </data>
   <data name="没有发现任何有效的NFC设备" xml:space="preserve">
-    <value>Не было обнаружено никаких активных устройств NFC.</value>
+    <value>Вы можете увидеть подключенные устройства выше.</value>
   </data>
   <data name="秒" xml:space="preserve">
     <value> с.</value>
@@ -447,7 +450,7 @@
     <value>Неверная настройка, пожалуйста, измените ее.</value>
   </data>
   <data name="识别了以下设备" xml:space="preserve">
-    <value>Определены следующие устройства：</value>
+    <value>Определение устройств заверешено.</value>
   </data>
   <data name="该扇区UID校验值错误_已经自动为您更正" xml:space="preserve">
     <value>Ошибка проверки UID сектора была автоматически исправлена для вас.</value>
@@ -492,7 +495,7 @@
 </value>
   </data>
   <data name="请检查接线是否正确_驱动是否正常安装_设备电源是否已经打开_" xml:space="preserve">
-    <value>Пожалуйста, проверьте правильность подключения/правильно ли установлен драйвер/питание устройства включено (для моделей с выключателем питания).</value>
+    <value>Помните, что для некоторых операция необходимы драйвера libusbK.</value>
   </data>
   <data name="请输入UID号" xml:space="preserve">
     <value>Пожалуйста, введите номер UID</value>

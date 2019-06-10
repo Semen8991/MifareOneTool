@@ -8,24 +8,31 @@
   </GeneralIds>
   <GeneralIds>
     <StringID>3</StringID>
+    <Comment>Previous text: 设备控制</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>4</StringID>
+    <Comment>Previous text: 手动CLI</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>5</StringID>
+    <Comment>Previous text: 打开NFC命令行以进行高级操作。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>6</StringID>
+    <Comment>Previous text: 手动扫描</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>7</StringID>
+    <Comment>Previous text: 扫描有效卡片。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>8</StringID>
   </GeneralIds>
   <GeneralIds>
     <StringID>9</StringID>
+    <Comment>Previous text: 扫描已连接的NFC设备
+(目前支持PN532、ACR122U)</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>10</StringID>
@@ -35,147 +42,197 @@
   </GeneralIds>
   <GeneralIds>
     <StringID>11</StringID>
+    <Comment>Previous text: Hello,cardman!</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>12</StringID>
   </GeneralIds>
   <GeneralIds>
     <StringID>13</StringID>
+    <Comment>Previous text: 读M1</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>14</StringID>
+    <Comment>Previous text: 读取普通M1卡片（可能需要加载密钥文件）</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>15</StringID>
+    <Comment>Previous text: 普通卡操作</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>16</StringID>
+    <Comment>Previous text: 清M1</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>17</StringID>
+    <Comment>Previous text: 格式化普通M1卡（必须加载密钥文件）</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>18</StringID>
+    <Comment>Previous text: 写M1</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>19</StringID>
+    <Comment>Previous text: 写入普通M1卡（可能需要加载密钥文件）</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>20</StringID>
   </GeneralIds>
   <GeneralIds>
     <StringID>21</StringID>
+    <Comment>Previous text: 加载含有正确读写卡密钥及正确控制位的MFD文件。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>22</StringID>
+    <Comment>Previous text: UID写</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>23</StringID>
+    <Comment>Previous text: 写入UID卡片。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>24</StringID>
+    <Comment>Previous text: UID读</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>25</StringID>
+    <Comment>Previous text: 读取UID卡片。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>26</StringID>
+    <Comment>Previous text: MFOC读</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>27</StringID>
+    <Comment>Previous text: 对半加密卡片进行Nested破解。
+按住Ctrl点击该按钮可添加已知密钥。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>28</StringID>
+    <Comment>Previous text: UID写号</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>29</StringID>
+    <Comment>Previous text: 向UID卡片写入置顶卡号，厂商设置为复旦。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>30</StringID>
+    <Comment>Previous text: UID全格</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>31</StringID>
+    <Comment>Previous text: 将全卡清空并重新初始化。
+可用于ACbit损坏/KEY全部被改等情况的急救。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>32</StringID>
+    <Comment>Previous text: UID重置</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>33</StringID>
+    <Comment>Previous text: 重置UID卡片0块，UID随机，厂商号为复旦。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>34</StringID>
+    <Comment>Previous text: 运行/终端</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>35</StringID>
+    <Comment>Previous text: 停运行</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>36</StringID>
+    <Comment>Previous text: 存日志</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>37</StringID>
+    <Comment>Previous text: 清终端</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>38</StringID>
+    <Comment>Previous text: 全加密爆破</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>39</StringID>
+    <Comment>Previous text: 对卡片执行Darkside工具（不一定成功）</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>40</StringID>
+    <Comment>Previous text: Hex编辑器</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>41</StringID>
+    <Comment>Previous text: 差异比较</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>42</StringID>
+    <Comment>Previous text: 检加密</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>43</StringID>
+    <Comment>Previous text: 检测卡片加密情况。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>44</StringID>
+    <Comment>Previous text: 锁Ufuid</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>45</StringID>
+    <Comment>Previous text: 锁死UFUID卡片0块数据（测试中）</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>46</StringID>
+    <Comment>Previous text: CUID写</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>47</StringID>
+    <Comment>Previous text: 写入CUID/FUID卡片（可能需要密钥文件）</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>48</StringID>
+    <Comment>Previous text: 字典测试</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>49</StringID>
+    <Comment>Previous text: 导入字典文件进行Nested破解。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>50</StringID>
+    <Comment>Previous text: 知n密</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>51</StringID>
+    <Comment>Previous text: 输入已知密钥进行Nested破解。</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>52</StringID>
+    <Comment>Previous text: 集成辅助工具</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>53</StringID>
+    <Comment>Previous text: MFF08 CUID修复</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>54</StringID>
+    <Comment>Previous text: 复制卡模式</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>55</StringID>
+    <Comment>Previous text: 停止</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>56</StringID>
+    <Comment>Previous text: 请放
+新卡</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>57</StringID>
+    <Comment>Previous text: 请放
+原卡</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>58</StringID>
+    <Comment>Previous text: 尝试一下是否成功</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>59</StringID>
@@ -188,54 +245,67 @@
   </GeneralIds>
   <GeneralIds>
     <StringID>62</StringID>
+    <Comment>Previous text: 检测加密</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>63</StringID>
+    <Comment>Previous text: 扫描卡片</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>64</StringID>
   </GeneralIds>
   <GeneralIds>
     <StringID>65</StringID>
+    <Comment>Previous text: 写C/FUID卡</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>66</StringID>
   </GeneralIds>
   <GeneralIds>
     <StringID>67</StringID>
+    <Comment>Previous text: 锁UFUID卡</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>68</StringID>
+    <Comment>Previous text: 写入普通卡</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>69</StringID>
+    <Comment>Previous text: 检测连接</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>70</StringID>
   </GeneralIds>
   <GeneralIds>
     <StringID>71</StringID>
+    <Comment>Previous text: 从UID卡读回</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>72</StringID>
+    <Comment>Previous text: 加载密钥…</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>73</StringID>
+    <Comment>Previous text: 知一密破解</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>74</StringID>
+    <Comment>Previous text: 已知密钥读</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>75</StringID>
+    <Comment>Previous text: 一键解原卡</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>76</StringID>
   </GeneralIds>
   <GeneralIds>
     <StringID>77</StringID>
+    <Comment>Previous text: 高级操作模式</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>78</StringID>
+    <Comment>Previous text: 破解工具</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>79</StringID>
@@ -245,69 +315,91 @@
   </GeneralIds>
   <GeneralIds>
     <StringID>81</StringID>
+    <Comment>Previous text: 该卡种读取
+同普通卡</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>82</StringID>
   </GeneralIds>
   <GeneralIds>
     <StringID>83</StringID>
+    <Comment>Previous text: 软件设置</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>84</StringID>
+    <Comment>Previous text: 优化设置</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>85</StringID>
+    <Comment>Previous text: 多实例运行模式 会禁用多开检测 请自行指定设备</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>86</StringID>
+    <Comment>Previous text: 指定设备</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>87</StringID>
+    <Comment>Previous text: 减少找设备延迟</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>88</StringID>
+    <Comment>Previous text: 偏好设置</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>89</StringID>
+    <Comment>Previous text: 自动以UID名保存文件</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>90</StringID>
+    <Comment>Previous text: 自动转到高级操作模式</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>91</StringID>
+    <Comment>Previous text: 单线程计算</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>92</StringID>
+    <Comment>Previous text: 界面设置</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>93</StringID>
+    <Comment>Previous text: 终端文字大小</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>94</StringID>
+    <Comment>Previous text: #M1T#</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>95</StringID>
+    <Comment>Previous text: 终端文字颜色</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>96</StringID>
+    <Comment>Previous text: 卡操作相关</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>97</StringID>
+    <Comment>Previous text: CUID写空卡补丁</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>98</StringID>
+    <Comment>Previous text: 数据写入保护(建议)</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>99</StringID>
+    <Comment>Previous text: 自动加载uid.Key文件</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>100</StringID>
+    <Comment>Previous text: 自动判断Key(beta)</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>101</StringID>
+    <Comment>Previous text: 就绪</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>102</StringID>
+    <Comment>Previous text: 检查更新</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>103</StringID>
@@ -341,7 +433,6 @@
   </GeneralIds>
   <GeneralIds>
     <StringID>113</StringID>
-    <Comment>Previous text: 初始化HardNested解密</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>114</StringID>
@@ -414,12 +505,6 @@
   </GeneralIds>
   <GeneralIds>
     <StringID>137</StringID>
-    <Comment>Previous text: 每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
-比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
-MFF08工具给了你一次修复这些损坏卡片的机会。
-------------------------------------------------------------------------
-
-</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>138</StringID>
@@ -577,11 +662,9 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   </GeneralIds>
   <GeneralIds>
     <StringID>188</StringID>
-    <Comment>Previous text: 欢迎使用M1T的集成编辑器S50HTool！</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>189</StringID>
-    <Comment>Previous text: 打开文件请点左上角文件-打开或Ctrl+O</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>190</StringID>
@@ -603,17 +686,9 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   </GeneralIds>
   <GeneralIds>
     <StringID>196</StringID>
-    <Comment>Previous text: 欢迎使用M1T内置的差异工具！
-说明：
-点击上方的AB两个按键分别选择MFD文件。
-然后点击“比较”即可看到结果。
-</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>197</StringID>
-    <Comment>Previous text: 欢迎使用M1T的集成编辑器S50HTool！
-打开文件请点左上角文件-打开或Ctrl+O
-</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>198</StringID>
@@ -1028,9 +1103,11 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   </GeneralIds>
   <GeneralIds>
     <StringID>335</StringID>
+    <Comment>Previous text: 语言和地区</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>336</StringID>
+    <Comment>Previous text: 选择界面语言</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>337</StringID>
@@ -1055,6 +1132,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   </GeneralIds>
   <GeneralIds>
     <StringID>344</StringID>
+    <Comment>Previous text: 计时器</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>345</StringID>
@@ -1141,7 +1219,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   </GeneralIds>
   <GeneralIds>
     <StringID>366</StringID>
-    <Comment>Previous text: Привет!</Comment>
+    <Comment>Previous text: Hello,cardman!</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>367</StringID>
@@ -1206,12 +1284,34 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralIds>
     <StringID>387</StringID>
   </GeneralIds>
-  <Languages>
-    <LanguageID>30724</LanguageID>
-    <LanguageName>Китайский</LanguageName>
-    <IetfLanguageTag>zh</IetfLanguageTag>
-    <ColumnNumber>0</ColumnNumber>
-  </Languages>
+  <GeneralIds>
+    <StringID>388</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>389</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>390</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>391</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>392</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>393</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>394</StringID>
+    <Comment>Previous text: 选择key.mfd</Comment>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>395</StringID>
+  </GeneralIds>
+  <GeneralIds>
+    <StringID>396</StringID>
+  </GeneralIds>
   <Languages>
     <LanguageID>25</LanguageID>
     <LanguageName>Русский</LanguageName>
@@ -1219,2626 +1319,560 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
     <ColumnNumber>2</ColumnNumber>
   </Languages>
   <GeneralTexts>
-    <StringID>1</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
-比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
-MFF08工具给了你一次修复这些损坏卡片的机会。
-------------------------------------------------------------------------
-
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>2</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>MifareOne Tool</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>3</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>设备控制</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>4</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>手动CLI</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>5</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>打开NFC命令行以进行高级操作。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>6</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>手动扫描</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>7</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>扫描有效卡片。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>8</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>检测设备</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>9</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>扫描已连接的NFC设备
-(目前支持PN532、ACR122U)</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>10</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>ппппппппппппппппппп</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>11</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Hello,cardman!</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>12</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>首次运行建议点击"检测设备"以加快后续运行速度</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>13</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>读M1</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>14</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>读取普通M1卡片（可能需要加载密钥文件）</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>15</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>普通卡操作</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>16</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>清M1</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>17</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>格式化普通M1卡（必须加载密钥文件）</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>18</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>写M1</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>19</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>写入普通M1卡（可能需要加载密钥文件）</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>20</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>选择key.mfd</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>21</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>加载含有正确读写卡密钥及正确控制位的MFD文件。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>22</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>UID写</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>23</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>写入UID卡片。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>24</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>UID读</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>25</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>读取UID卡片。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>26</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>MFOC读</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>27</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>对半加密卡片进行Nested破解。
-按住Ctrl点击该按钮可添加已知密钥。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>28</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>UID写号</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>29</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>向UID卡片写入置顶卡号，厂商设置为复旦。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>30</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>UID全格</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>31</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>将全卡清空并重新初始化。
-可用于ACbit损坏/KEY全部被改等情况的急救。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>32</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>UID重置</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>33</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>重置UID卡片0块，UID随机，厂商号为复旦。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>34</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>运行/终端</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>35</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>停运行</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>36</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>存日志</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>37</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>清终端</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>38</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>全加密爆破</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>39</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>对卡片执行Darkside工具（不一定成功）</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>40</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Hex编辑器</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>41</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>差异比较</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>42</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>检加密</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>43</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>检测卡片加密情况。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>44</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>锁Ufuid</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>45</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>锁死UFUID卡片0块数据（测试中）</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>46</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>CUID写</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>47</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>写入CUID/FUID卡片（可能需要密钥文件）</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>48</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>字典测试</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>49</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>导入字典文件进行Nested破解。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>50</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>知n密</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>51</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>输入已知密钥进行Nested破解。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>52</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>集成辅助工具</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>53</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>MFF08 CUID修复</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>54</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>复制卡模式</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>55</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>停止</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>56</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请放
-新卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>57</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请放
-原卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>58</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>尝试一下是否成功</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>59</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>&gt;&gt;&gt;&gt;&gt;</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>60</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>&gt;&gt;&gt;</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>61</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>&gt;&gt;</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>62</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>检测加密</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>63</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>扫描卡片</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>64</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[3]写入新卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>65</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>写C/FUID卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>66</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>写(UF)UID卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>67</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>锁UFUID卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>68</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>写入普通卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>69</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>检测连接</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>70</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[2]读取原卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>71</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>从UID卡读回</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>72</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>加载密钥…</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>73</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>知一密破解</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>74</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已知密钥读</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>75</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>一键解原卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>76</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>从这里开始
-
-
-
-
-
-
-本工具仅支持SAK=08/18/28的
-卡片复制。SAK28无一键解密。
-若要复制S70卡片，请在高级界
-面上取消勾选“数据写入保护”。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>77</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>高级操作模式</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>78</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>破解工具</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>79</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>HardNested</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>80</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>C/FUID卡操作</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>81</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该卡种读取
-同普通卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>82</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>UID/UFUID卡操作</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>83</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>软件设置</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>84</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>优化设置</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>85</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>多实例运行模式 会禁用多开检测 请自行指定设备</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>86</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>指定设备</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>87</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>减少找设备延迟</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>88</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>偏好设置</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>89</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>自动以UID名保存文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>90</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>自动转到高级操作模式</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>91</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>单线程计算</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>92</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>界面设置</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>93</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>终端文字大小</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>94</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>#M1T#</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>95</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>终端文字颜色</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>96</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>卡操作相关</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>97</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>CUID写空卡补丁</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>98</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>数据写入保护(建议)</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>99</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>自动加载uid.Key文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>100</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>自动判断Key(beta)</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>101</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>就绪</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>102</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>检查更新</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>103</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>statusStrip1</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>104</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>DiffTool</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>105</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T内置的差异工具！
-说明：
-点击上方的AB两个按键分别选择MFD文件。
-然后点击“比较”即可看到结果。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>106</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T内置的差异工具！</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>107</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>说明：</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>108</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>点击上方的AB两个按键分别选择MFD文件。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>109</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>然后点击“比较”即可看到结果。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>110</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>A</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>111</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>B</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>112</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>比较</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>113</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Bitsliced Crypto-1 brute-forcer</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>114</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>执行!</LanguageText>
-    <Status>1</Status>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Остановить</LanguageText>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>115</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>取消</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>116</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>目标卡-已知信息</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>117</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyB</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>118</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>119</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>类型</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>120</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>扇区号</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>121</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>0</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>122</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>ffffffffffff</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>123</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已知的Key</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>124</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>连续工作时请注意设备散热！</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>125</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>目标扇区解密设置</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>126</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>只采集不计算</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>127</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>MFF08 Tool-CUID修复工具</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>128</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>说明</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>129</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>本工具由nfc-mfclassic做少许修改而来。可用于1K大小CUID卡0块损坏的修复。
-本工具可以修复：SAK写错（不认卡类型）、ATQA写错（不认卡大小），对于BCC写错暂时无能为力。
-请准备好你最后一次写入该卡导致0块损坏的卡数据文件（如果卡片有加密）。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>130</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>操作</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>131</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>清除</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>132</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>加载…</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>133</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>最后一次写卡导致0块损坏的卡数据文件：</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>134</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>修复写入
-有密码
-CUID卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>135</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>修复写入
-无密空白
-CUID卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>136</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>日志</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>137</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
-比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
-MFF08工具给了你一次修复这些损坏卡片的机会。
-------------------------------------------------------------------------
-
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>138</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Когда все используют карту CUID, они всегда делают маленькие ошибки, потому что они не понимают или непреднамеренно.</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>139</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Например, если редактор используется для изменения UID, но BCC не изменяется, файл, дешифрованный картой SAK = 28, записывается напрямую или данные импортируются с карты S70 на карту 1K, но ATQA не исправляется.</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>140</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Инструмент MFF08 дает вам возможность исправить эти поврежденные карты сразу.</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>141</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>-------------------------------------------------- ----------------------</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>55</StringID>
+    <StringID>226</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Остановить</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>115</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Отмена</LanguageText>
-    <Status>3</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>131</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Очистить</LanguageText>
-    <Status>3</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>142</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>新建</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>143</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>打开</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>144</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>保存</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>145</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>另存为</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>146</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>退出</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>147</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>148</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>修改UID</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>149</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>检查全卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>150</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>检查并纠正全卡</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>151</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>导入MCT格式</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>152</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>导出为MCT格式</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>153</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>导出密钥字典</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>154</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>列出全卡密钥</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>155</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>工具</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>156</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>menuStrip1</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>157</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>扇区</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>158</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>扇区列表</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>159</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>修改扇区(Enter)</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>160</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:A写/AC:A只读/KeyB:A读写</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>161</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA:A写/AC:A读写/KeyB:A读写</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>162</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:不能读写/AC:A只读/KeyB:A读</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>163</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA:B写/AC:A只读B读写/KeyB:B写</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>164</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:B写/AC:AB只读/KeyB:B写</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>165</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA:不能读写/AC:A只读B读写/KeyB:不能读写</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>166</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:不能读写/AC:AB只读/KeyB:不能读写</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>167</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:不能读写/AC:AB只读/KeyB:不能读写(重复了?)</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>168</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB读写及增减值</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>169</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[只读]KeyAB读及减值/不可写及增值</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>170</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[只读]KeyAB读/不可写及增减值</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>171</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyB读写/不可增减值</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>172</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB读/KeyB写/不可增减值</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>173</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[只读]KeyB读/不可写及增减值</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>174</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB读及减值/KeyB写及增值</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>175</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[只读]锁死该扇区</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>176</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Key/ACbits权限</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>177</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>2块权限</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>178</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>1块权限</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>179</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>0块权限</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>180</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>第2块</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>181</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>第1块</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>182</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>第0块</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>183</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>当前选定扇区：？？</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>184</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>扇区信息</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>185</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T的集成编辑器S50HTool！
-打开文件请点左上角文件-打开或Ctrl+O
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>186</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>输出</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>187</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>S50HTool-beta</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>188</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Добро пожаловать в интегрированный редактор дампа!</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>189</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Чтобы открыть файл, пожалуйста, нажмите на Файл в верхнем левом углу - Открыть или Ctrl + O</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>190</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>SelectLanguage</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>191</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Use the selected language</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>192</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Show this form again</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>193</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Next time ...</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>194</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Use the default language</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>195</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>OK</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>196</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T内置的差异工具！
-说明：
-点击上方的AB两个按键分别选择MFD文件。
-然后点击“比较”即可看到结果。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>197</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T的集成编辑器S50HTool！
-打开文件请点左上角文件-打开或Ctrl+O
-</LanguageText>
+    <LanguageText>#软件版本 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>198</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>不恰当的4字节UID长度</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
+    <StringID>157</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>扇区</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
     <StringID>199</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText> 空扇区</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>200</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText> 有数据</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>201</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText> 有错误</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>202</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>加载的文件不存在。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>203</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>加载的S50卡文件大小异常。</LanguageText>
+    <StringID>209</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>MifareOne Tool - 运行中</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>204</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[0-9A-Fa-f]{32}</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>205</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>文件内不是含有64个块数据，可能不完整或不兼容。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>206</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>+Sector: </LanguageText>
+    <StringID>241</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>错误</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>207</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>有任务运行中，不可执行。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>208</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>设备忙</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>209</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>MifareOne Tool - 运行中</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>210</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>设备串口：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>211</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>MifareOne Tool - 运行完毕</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>212</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>##已自动保存-</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>213</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>##缓存文件异常##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>214</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>请选择MFD文件保存位置及文件名</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>215</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>DUMP文件|*.dump|MFD文件|*.mfd</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>216</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>##已保存-</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>217</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>##未保存##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>218</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>##Nonce收集完毕##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>219</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>您可以上传到云计算服务节点进行计算。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>220</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>识别了以下设备：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>221</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>将自动选择首个设备：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>222</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>没有发现任何有效的NFC设备。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>223</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>请检查接线是否正确/驱动是否正常安装/设备电源是否已经打开（对于具有电源开关的型号）。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>224</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>开始执行检测设备……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>225</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>##运行完毕##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>226</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>#软件版本 </LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>226</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>
-Версия программы - </LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>227</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>本地版本 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>228</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>开始执行扫描卡片……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>229</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>正在检索是否存在key.mfd…</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>230</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>已找到！K=</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>231</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>正在使用智能KeyABN…</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>232</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>使用KeyA（是）或KeyB（否），还是不使用（用于全新白卡）（取消）？</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>233</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>开始执行读取卡片……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>234</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>##运行出错##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>235</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>MFD文件|*.mfd|DUMP文件|*.dump</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>236</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>请选择一个包含目标卡密钥的MFD文件（通常是已经破解出的该卡的MFD文件）</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
+    <StringID>20</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>选择key.mfd</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
     <StringID>237</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>打开出错</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>238</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>MFD文件|*.mfd;*.dump</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>239</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>请选择需要写入的MFD文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>240</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>将要写入的文件存在错误，请用高级模式中的Hex工具打开查看。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>241</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>错误</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>242</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA/B/N</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>243</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>开始执行写入M1卡片……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>244</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请输入已知的Key，以英文半角逗号分隔。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>245</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请输入已知Key</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>246</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行MFOC解密……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>247</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行重置UID卡片卡号……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>248</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该操作将会清空UID卡内全部数据！！！
-清空后不可恢复！请确认是否要继续操作？</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>249</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>危险操作警告</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>250</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UID卡片全格……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>251</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>开始执行UID卡片读取……</LanguageText>
     <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>198</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Недопустимая длина UID в 4 байта</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>157</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Cектор </LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>252</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UID卡片写入……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>253</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>终端内容已保存至m1t.log文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>254</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Information</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>255</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请输入需要写入的UID卡号，共8位十六进制数，如E44A3BF1。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>256</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请输入UID号</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>257</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>输入的UID号不合法</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>258</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UID卡片设定卡号……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>259</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行全加密卡片爆破……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>260</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已启用CUID空卡写入补丁</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>261</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行CUID/FUID卡片写入……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>262</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>MifareOne Tool - 已终止</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>263</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>##程序已被强制停止##</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>264</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该操作将会锁死UFUID卡片！！！
-锁死后不可恢复！无法再次更改0块！请确认是否要继续操作？</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>265</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UFUID卡片锁定……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>266</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>未选择有效key.mfd。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>267</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>无密钥</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>268</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>使用KeyA（是）或KeyB（否）？</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>269</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行格式化M1卡片……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>270</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>同时打开ACR122U支持可能会引起操作速度下降。
-请确认是否要继续操作？</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>271</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>提示信息</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>272</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>ACR122U支持已经打开过。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>273</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>正在打开ACR122U支持……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>274</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已打开。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>275</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>运行中</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>276</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>运行时间:</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>277</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>秒</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>278</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>空闲</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>279</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行检测卡片加密……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>280</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>密钥字典文件|*.dic</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>281</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的密钥字典文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>282</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>MifareOne Tool - отменено</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>283</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行字典模式MFOC解密……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>284</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行HardNested解密强化卡……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>285</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>nfc-bin/collect.exe</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>286</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行HardNested收集数据……</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>287</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已指定使用该NFC设备：</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>288</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的MFD文件(比较A)</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>289</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的MFD文件(比较B)</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>290</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>AB文件中一个或两个无效。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>291</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>扇区 </LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>292</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>共找到 </LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>293</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText> 个块不同
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>294</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>设置错误，请修改。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>295</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>显示扇区</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>296</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>当前选定扇区：</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>297</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区UID校验值错误，已经自动为您更正。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>298</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区访问控制位无效，写入将会损坏卡片，已重新设置。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>299</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区访问控制位损坏，写入将会损坏卡片，已重新设置。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>300</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的MFD文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>301</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>打开了</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>302</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>写入出错</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>303</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已保存到</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>304</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>305</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>当前扇区数据仍有错误，不能执行修改。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>306</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已更新扇区</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>307</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>##文件中的值错误##</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>308</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该文件一切正常。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>309</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该文件存在以下错误：
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>310</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区UID校验值错误，请点击打开扇区0来自动更正。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>311</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区访问控制位无效，写入将会损坏卡片，请重新设置。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>312</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区访问控制位损坏，写入将会损坏卡片，请重新设置。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>313</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区一切正常。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>314</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请输入需要更改的UID卡号，共8位十六进制数，如E44A3BF1。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>315</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>InputError</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>316</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>UID已改为</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>317</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>，计算得到BCC=</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>318</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已重置并新建卡。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>319</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区UID校验值错误，已自动更正。
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>320</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请选择MCT.txt文件保存位置及文件名</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>321</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>txt文件|*.txt</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>322</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已导出MCT文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>323</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请选择密钥字典文件保存位置及文件名</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>324</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>字典文件|*.dic</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>325</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>已导出密钥字典文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>326</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>MCT格式|*.*</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>327</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的MCT格式文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>328</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>#扇区 </LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>329</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>请选择最后一次写卡导致0块损坏的卡数据文件</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>330</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>您没有给定最后一次写卡导致0块损坏的卡数据文件来作为写卡时的密钥源。
-操作终止。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>331</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>无法找到MFF08程序文件。
-操作终止。</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>332</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>未知</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>333</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>您已经运行了MifareOne Tool，打开多个本程序可能会造成冲突及不可预料到的错误。
-确认要继续吗？</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>334</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>您正在试图重复运行</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>199</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText> - пустой сектор</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>200</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>  - есть данные</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>201</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText> - есть ошибка</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>202</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Загруженный файл не существует.</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>209</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>MifareOne Tool - выполнение операции</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>241</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Ошибка</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>207</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Операция не может быть выполнена, так как сейчас выполняется другая операция.</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>208</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Устройство занято</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>210</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Последовательный порт устройства:</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>211</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>MifareOne Tool - операция завершена</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>212</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>## Файл был сохранен автоматически -</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>213</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>## Исключение файла кэша ##</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>214</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите место сохранения файла MFD и имя файла</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>215</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>DUMP файл | *.dump | MFD файл | *.mfd</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>216</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>## Сохранено -</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>217</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>## Не сохранено ##</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>218</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>## Nonce собрано ##</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>219</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Вы можете загрузить на узел службы облачных вычислений для расчета.</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>220</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Определены следующие устройства：</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>221</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Первое устройство будет выбрано автоматически:</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>222</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Не было обнаружено никаких активных устройств NFC.</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>223</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, проверьте правильность подключения/правильно ли установлен драйвер/питание устройства включено (для моделей с выключателем питания).</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>224</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Поиск считвателя...</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>225</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>## Операция завершена ##</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>227</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Версия - </LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>228</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Сканирование карт...</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>229</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Поиск key.mfd ...</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>230</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Файл ключа - </LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>233</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Чтение карты...</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>234</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>## Ошибка запуска ##</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>235</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Файл MFD|*.mfd|Файл DUMP|*.dump</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>236</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Выберите файл MFD, содержащий ключ  карты (обычно это файл MFD карты, которая была взломана)</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>20</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Выбрать файл ключей</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>237</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Ошибка открытия</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>238</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>MFD файл | *.mfd; *. Dump</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>239</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите файл MFD для записи</LanguageText>
-    <Status>5</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>240</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Существует ошибка в файле, который будет записан. Откройте его с помощью редактора дампа в расширенном режиме.</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>243</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Запись на карту...</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>251</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Чтение UID...</LanguageText>
-    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>63</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Поиск карт</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>67</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Блокировка карты UFUID</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>24</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Считать UID в дамп</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>25</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>UID карты будет записан в файл дампа</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>22</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Записать UID из дампа</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>42</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Проверка шифрования</LanguageText>
-    <Status>2</Status>
+    <LanguageText>Определить шифрование</LanguageText>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>43</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Обнаружение шифрования карты.</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>4</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Команды</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>5</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Откройте командную строку NFC для расширенных операций.</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>46</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Запись CUID</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>37</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Очистить</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>36</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Сохранить</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>48</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Тест словаря</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>41</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Сравнение дампов</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>62</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Определить шифрование</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>73</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Ввести известный ключ</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>65</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Запись карты C/FUID</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>75</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Автоматически</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>74</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Известный ключ для чтения</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>68</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Записать обычную карту</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>71</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Считать UID в дамп</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>69</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Определить считыватель</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>72</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Загрузить ключ...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>Выбрать файл ключей...</LanguageText>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>66</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Запись карты (UF)UID</LanguageText>
-    <Status>2</Status>
+    <LanguageText>Запись карты UFUID</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>40</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Редактор дампа</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>35</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Остановить</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>8</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Определить</LanguageText>
-    <Status>2</Status>
+    <LanguageText>Определить считыватель</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>9</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Сканирование подключенных устройств NFC
 (В настоящее время поддерживает PN532, ACR122U)</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>44</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Блокировка UFUID</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>39</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Инструмент Darkside (не обязательно успешный）
 </LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>38</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>MFUK</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>16</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Очистить</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>27</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Взлом на полушифрованных картах.
 Нажмите Ctrl и нажмите эту кнопку, чтобы добавить известный ключ.</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>13</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Чтение</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>18</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Запись</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>50</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ввод ключа</LanguageText>
-    <Status>2</Status>
+    <LanguageText>Ввод известного ключа</LanguageText>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>51</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Введите известный ключ для взлома.</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>6</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ручное сканирование</LanguageText>
-    <Status>2</Status>
+    <LanguageText>Поиск карт</LanguageText>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>30</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Стереть UID</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>32</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Сброс UID</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>28</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Изменить UID</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>100</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Автоматически определять ключ (бета)</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>99</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Автоматически загружать файл uid.Key</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>89</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Автоматически сохранять файлы с именем UID</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>97</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>CUID записывает пустой патч карты</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>90</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Автоматический переход в расширенный режим работы</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>91</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Однопоточные вычисления
 </LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>85</StringID>
@@ -3850,61 +1884,61 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
     <StringID>87</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Уменьшить задержку оборудования</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>98</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Защита от записи данных (рекомендуется)</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>3</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Управление устройством</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>78</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Инструменты для взлома</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>92</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Настройки интерфейса</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>88</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Предпочтения</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>84</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Настройки оптимизации</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>15</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Обычные операции</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>34</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Терминал</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>52</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Дополнительно</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>70</StringID>
@@ -3916,7 +1950,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
     <StringID>96</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Операции с картой</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>64</StringID>
@@ -3933,7 +1967,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>80</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Работа с картой C/FUID</LanguageText>
+    <LanguageText>Карта CUID</LanguageText>
     <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -3941,20 +1975,20 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
     <LanguageID>25</LanguageID>
     <LanguageText>Карта читается 
 как и обычная карта</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>93</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Размер текста терминала</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>86</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Укажите устройство
 </LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>76</StringID>
@@ -3977,14 +2011,14 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
     <StringID>58</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Проверьте результат</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>57</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Пожалуйста, 
 вставьте карту</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>56</StringID>
@@ -3992,7 +2026,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
     <LanguageText>Пожалуйста, 
 вставьте 
 новую карту</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>10</StringID>
@@ -4007,43 +2041,43 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
     <StringID>95</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Цвет текста терминала</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>101</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Готов</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>77</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Расширенный режим работы</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>54</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Режим копирования карты</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>83</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Настройки программы</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>102</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Проверка обновлений</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>11</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Привет!</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>12</StringID>
@@ -4055,92 +2089,92 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
     <StringID>23</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>UID будет записан из файла дампа карты, сделанного ранее</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>94</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText># M1T #</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>47</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Запишите CUID / FUID карту (может понадобиться файл ключа)</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>49</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Импортируйте файл словаря для Nested crack.</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>45</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Блокировка 0-го блока данных UFUID карты (тестируется）
 </LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>53</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>MFF08 CUID ремонт</LanguageText>
-    <Status>5</Status>
+    <LanguageText>Восстановление CUID</LanguageText>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>17</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Отформатируйте нормальную карту M1 (необходимо загрузить файл ключа)</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>26</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>MFOC</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>14</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Прочитайте обычные карты M1 (возможно, потребуется загрузить файл ключа)</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>19</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Напишите нормальную карту M1 (возможно, потребуется загрузить файл ключа)</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>7</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Сканирование для действительной карты.</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>21</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Загрузите файл MFD с правильным ключом для чтения и записи и правильными битами управления.</LanguageText>
-    <Status>5</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>31</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Очистите карту и повторно инициализируйте ее. Это можно использовать для оказания первой помощи в ситуациях, когда поврежден ACbit/ключи полностью изменены.</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>33</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Сброс 0-го блока карты, номер UID - случайный, а данные производителя - Fudan.</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>29</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>На карту записывается номер Sticky Card, производитель будет установлен на Fudan.</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>110</StringID>
@@ -4151,59 +2185,60 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>111</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>В</LanguageText>
-    <Status>5</Status>
+    <LanguageText>B</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>112</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Сравнить</LanguageText>
-    <Status>2</Status>
+    <LanguageText>比较</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>196</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Добро пожаловать во встроенный инструмент сравнения дампов!
-Описание:
-1. Нажмите  А или В, чтобы выбрать файл MFD.
-2. Нажмите «Сравнить», чтобы увидеть результаты.</LanguageText>
-    <Status>7</Status>
+    <LanguageText>欢迎使用M1T内置的差异工具！
+说明：
+点击上方的AB两个按键分别选择MFD文件。
+然后点击“比较”即可看到结果。
+</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>106</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Добро пожаловать во встроенный инструмент различий M1T!</LanguageText>
-    <Status>2</Status>
+    <LanguageText>欢迎使用M1T内置的差异工具！</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>107</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Описание:</LanguageText>
-    <Status>5</Status>
+    <LanguageText>说明：</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>108</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Нажмите две кнопки AB выше, чтобы выбрать файл MFD.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>点击上方的AB两个按键分别选择MFD文件。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>109</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Затем нажмите «Сравнить», чтобы увидеть результаты.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>然后点击“比较”即可看到结果。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>113</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Расшифровка HardNested</LanguageText>
-    <Status>7</Status>
+    <LanguageText>Bitsliced Crypto-1 brute-forcer</LanguageText>
+    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>114</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Начать!</LanguageText>
-    <Status>2</Status>
+    <LanguageText>执行!</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>126</StringID>
@@ -4215,69 +2250,68 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>116</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Известная информция о карте</LanguageText>
-    <Status>2</Status>
+    <LanguageText>目标卡-已知信息</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>125</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Настройка расшифровки сектора</LanguageText>
-    <Status>2</Status>
+    <LanguageText>目标扇区解密设置</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>122</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>FFFFFFFFFFFF</LanguageText>
-    <Status>5</Status>
+    <LanguageText>ffffffffffff</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>124</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Обратите внимание на устройство 
-при непрерывной работе!</LanguageText>
-    <Status>2</Status>
+    <LanguageText>连续工作时请注意设备散热！</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>123</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Известный ключ</LanguageText>
-    <Status>5</Status>
+    <LanguageText>已知的Key</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>120</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Номер сектора</LanguageText>
-    <Status>5</Status>
+    <LanguageText>扇区号</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>119</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Тип ключа</LanguageText>
-    <Status>2</Status>
+    <LanguageText>类型</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>118</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ключ A</LanguageText>
-    <Status>2</Status>
+    <LanguageText>KeyA</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>117</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ключ B</LanguageText>
-    <Status>2</Status>
+    <LanguageText>KeyB</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>187</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Редактор дампа (бета)</LanguageText>
-    <Status>2</Status>
+    <LanguageText>S50HTool-beta</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>159</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Изменить сектор (Enter)</LanguageText>
-    <Status>5</Status>
+    <LanguageText>修改扇区(Enter)</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>168</StringID>
@@ -4378,243 +2412,243 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>158</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Список секторов</LanguageText>
-    <Status>5</Status>
+    <LanguageText>扇区列表</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>184</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Информация о секторе</LanguageText>
-    <Status>2</Status>
+    <LanguageText>扇区信息</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>186</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Просмотр</LanguageText>
-    <Status>2</Status>
+    <LanguageText>输出</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>182</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Блок 0</LanguageText>
-    <Status>5</Status>
+    <LanguageText>第0块</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>181</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Блок 1</LanguageText>
-    <Status>2</Status>
+    <LanguageText>第1块</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>180</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Блок 2</LanguageText>
-    <Status>5</Status>
+    <LanguageText>第2块</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>179</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Условия доступа блока 0</LanguageText>
-    <Status>2</Status>
+    <LanguageText>0块权限</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>178</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Условия доступа блока 1</LanguageText>
-    <Status>2</Status>
+    <LanguageText>1块权限</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>177</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Условия доступа блока 2</LanguageText>
-    <Status>2</Status>
+    <LanguageText>2块权限</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>176</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ключ / ACbits разрешение</LanguageText>
-    <Status>5</Status>
+    <LanguageText>Key/ACbits权限</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>183</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Текущий выбранный сектор: ?</LanguageText>
-    <Status>2</Status>
+    <LanguageText>当前选定扇区：？？</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>197</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Добро пожаловать в интегрированный редактор дампа!
-Чтобы открыть файл, пожалуйста, нажмите на Файл в верхнем левом углу - Открыть или Ctrl + O
-Вы можете обновить данные вашей карты.</LanguageText>
-    <Status>7</Status>
+    <LanguageText>欢迎使用M1T的集成编辑器S50HTool！
+打开文件请点左上角文件-打开或Ctrl+O
+</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>144</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Сохранить</LanguageText>
-    <Status>5</Status>
+    <LanguageText>保存</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>148</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Изменить UID</LanguageText>
-    <Status>5</Status>
+    <LanguageText>修改UID</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>154</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Перечислите полный ключ карты</LanguageText>
-    <Status>5</Status>
+    <LanguageText>列出全卡密钥</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>145</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Сохранить как</LanguageText>
-    <Status>5</Status>
+    <LanguageText>另存为</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>151</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Импортировать формат MCT</LanguageText>
-    <Status>5</Status>
+    <LanguageText>导入MCT格式</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>152</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Экспорт в формат MCT</LanguageText>
-    <Status>5</Status>
+    <LanguageText>导出为MCT格式</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>153</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Словарь ключей экспорта</LanguageText>
-    <Status>2</Status>
+    <LanguageText>导出密钥字典</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>155</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Инструменты</LanguageText>
-    <Status>2</Status>
+    <LanguageText>工具</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>143</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Открыть</LanguageText>
-    <Status>2</Status>
+    <LanguageText>打开</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>147</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Файл</LanguageText>
-    <Status>2</Status>
+    <LanguageText>文件</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>142</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Создать</LanguageText>
-    <Status>2</Status>
+    <LanguageText>新建</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>149</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Проверка полной карты</LanguageText>
-    <Status>2</Status>
+    <LanguageText>检查全卡</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>150</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Проверка и исправление полной карты</LanguageText>
-    <Status>2</Status>
+    <LanguageText>检查并纠正全卡</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>146</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Выход</LanguageText>
-    <Status>2</Status>
+    <LanguageText>退出</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>188</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Добро пожаловать в интегрированный редактор M1T S50HTool!</LanguageText>
-    <Status>7</Status>
+    <LanguageText>Добро пожаловать в интегрированный редактор дампа!</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>189</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Откройте файл, пожалуйста, нажмите на файл в верхнем левом углу - открыть или Ctrl + O</LanguageText>
-    <Status>7</Status>
+    <LanguageText>Чтобы открыть файл, пожалуйста, нажмите на Файл в верхнем левом углу - Открыть или Ctrl + O</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>127</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>MFF08 Tool-CUID Ремонт инструмента</LanguageText>
-    <Status>5</Status>
+    <LanguageText>MFF08 Tool-CUID修复工具</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>134</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ремонт написать
-Есть пароль
-CUID карта</LanguageText>
-    <Status>5</Status>
+    <LanguageText>修复写入
+有密码
+CUID卡</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>132</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Loading ...</LanguageText>
-    <Status>5</Status>
+    <LanguageText>加载…</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>135</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ремонт написать
-Нет секретного бланка
-CUID карта</LanguageText>
-    <Status>5</Status>
+    <LanguageText>修复写入
+无密空白
+CUID卡</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>128</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>объяснение</LanguageText>
-    <Status>5</Status>
+    <LanguageText>说明</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>130</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>операционная</LanguageText>
-    <Status>5</Status>
+    <LanguageText>操作</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>136</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>журнал</LanguageText>
-    <Status>5</Status>
+    <LanguageText>日志</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>129</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Этот инструмент был слегка изменен с помощью nfc-mfclassic. Может быть использован для ремонта 0U блока карты размера 1K.
-Этот инструмент можно починить: неверный SAK (не распознанный тип карты), неправильный ATQA (не распознанный размер карты) и BCC невозможно записать неправильно.
-Пожалуйста, подготовьте файл данных карты, который вызвал последние 0 повреждений карты (если карта зашифрована).</LanguageText>
-    <Status>5</Status>
+    <LanguageText>本工具由nfc-mfclassic做少许修改而来。可用于1K大小CUID卡0块损坏的修复。
+本工具可以修复：SAK写错（不认卡类型）、ATQA写错（不认卡大小），对于BCC写错暂时无能为力。
+请准备好你最后一次写入该卡导致0块损坏的卡数据文件（如果卡片有加密）。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>133</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>В последний раз при записи карты получено 0 поврежденных файлов данных карты:</LanguageText>
-    <Status>5</Status>
+    <LanguageText>最后一次写卡导致0块损坏的卡数据文件：</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>137</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Когда все используют карту CUID, они всегда делают маленькие ошибки, потому что они не понимают или непреднамеренно.
-Например, если редактор используется для изменения UID, но BCC не изменяется, файл, дешифрованный картой SAK = 28, записывается напрямую или данные импортируются с карты S70 на карту 1K, но ATQA не исправляется.
-Инструмент MFF08 дает вам возможность исправить эти поврежденные карты сразу.
--------------------------------------------------- ----------------------
+    <LanguageText>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
+比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
+MFF08工具给了你一次修复这些损坏卡片的机会。
+------------------------------------------------------------------------
 
 </LanguageText>
-    <Status>7</Status>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>138</StringID>
@@ -4673,282 +2707,281 @@ CUID карта</LanguageText>
   <GeneralTexts>
     <StringID>203</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Размер загруженного файла карты S50 не поддерживается.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>加载的S50卡文件大小异常。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>205</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Файл не содержит 64 блока данных и может быть неполным или несовместимым.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>文件内不是含有64个块数据，可能不完整或不兼容。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>206</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>+ Сектор:</LanguageText>
-    <Status>5</Status>
+    <LanguageText>+Sector: </LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>231</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Использование файла ключей...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>正在使用智能KeyABN…</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>232</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Использовать Ключ A (да) или Ключ B (нет) или нет (отменить)  для новых белых карточек?</LanguageText>
-    <Status>2</Status>
+    <LanguageText>使用KeyA（是）或KeyB（否），还是不使用（用于全新白卡）（取消）？</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>242</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ключ A/B для новых карт</LanguageText>
-    <Status>2</Status>
+    <LanguageText>KeyA/B/N</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>244</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, введите известные ключи, разделяя их запятой.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>请输入已知的Key，以英文半角逗号分隔。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>245</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, введите известные ключи</LanguageText>
-    <Status>2</Status>
+    <LanguageText>请输入已知Key</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>246</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Выполняется расшифровка MFOC ...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行MFOC解密……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>247</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Сброс номера UID ...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行重置UID卡片卡号……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>248</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Это удалит все данные в UID карты!
-Восстановление после форматирования невозможно! Пожалуйста, подтвердите, если вы хотите продолжить?</LanguageText>
-    <Status>2</Status>
+    <LanguageText>该操作将会清空UID卡内全部数据！！！
+清空后不可恢复！请确认是否要继续操作？</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>249</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Предупреждение об опасной операции</LanguageText>
-    <Status>2</Status>
+    <LanguageText>危险操作警告</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>250</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Форматирование UID...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行UID卡片全格……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>252</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Начните выполнять запись UID карты ...</LanguageText>
-    <Status>5</Status>
+    <LanguageText>开始执行UID卡片写入……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>253</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Содержимое терминала сохранено в файле m1t.log</LanguageText>
-    <Status>5</Status>
+    <LanguageText>终端内容已保存至m1t.log文件</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>254</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Информация</LanguageText>
-    <Status>2</Status>
+    <LanguageText>Information</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>255</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, введите номер карты UID для записи, всего 8 шестнадцатеричных чисел, например, E44A3BF1.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>请输入需要写入的UID卡号，共8位十六进制数，如E44A3BF1。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>256</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, введите номер UID</LanguageText>
-    <Status>5</Status>
+    <LanguageText>请输入UID号</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>257</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Введенный номер UID недействителен.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>输入的UID号不合法</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>258</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Начало записи номера UID...
-</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行UID卡片设定卡号……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>259</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Начало выполнения полной расшифровки карты ...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行全加密卡片爆破……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>260</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Включить патч для записи на пустую карту CUID</LanguageText>
-    <Status>2</Status>
+    <LanguageText>已启用CUID空卡写入补丁</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>261</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Запись CUID/FUID карты ...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行CUID/FUID卡片写入……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>262</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>MifareOne Tool - прекращено</LanguageText>
-    <Status>5</Status>
+    <LanguageText>MifareOne Tool - 已终止</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>263</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>## Программа была вынуждена остановить ##</LanguageText>
-    <Status>5</Status>
+    <LanguageText>##程序已被强制停止##</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>264</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Это заблокирует карту UFUID!
-Восстановление после блокировки будет невозможно! Изменить 0-ой блок будет невозможно! Пожалуйста, подтвердите, если вы хотите продолжить?</LanguageText>
-    <Status>2</Status>
+    <LanguageText>该操作将会锁死UFUID卡片！！！
+锁死后不可恢复！无法再次更改0块！请确认是否要继续操作？</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>265</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Блокировка карты UFUID ...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行UFUID卡片锁定……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>266</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Действительный key.mfd не был выбран.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>未选择有效key.mfd。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>267</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Нет ключа</LanguageText>
-    <Status>5</Status>
+    <LanguageText>无密钥</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>268</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Использовать KeyA (да) или KeyB (нет)?</LanguageText>
-    <Status>5</Status>
+    <LanguageText>使用KeyA（是）或KeyB（否）？</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>269</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Форматирование карты...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行格式化M1卡片……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>270</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Одновременное включение поддержки ACR122U может привести к снижению скорости работы.
-Подтвердите, хотите ли вы продолжить?</LanguageText>
-    <Status>2</Status>
+    <LanguageText>同时打开ACR122U支持可能会引起操作速度下降。
+请确认是否要继续操作？</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>271</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Совет</LanguageText>
-    <Status>2</Status>
+    <LanguageText>提示信息</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>272</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Поддержка ACR122U включена.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>ACR122U支持已经打开过。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>273</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Включена поддержка ACR122U...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>正在打开ACR122U支持……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>274</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Открыт.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>已打开。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>275</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Операция выполняется</LanguageText>
-    <Status>2</Status>
+    <LanguageText>运行中</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>276</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Время выполнения: </LanguageText>
-    <Status>2</Status>
+    <LanguageText>运行时间:</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>277</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText> с.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>秒</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>278</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ожидание операции</LanguageText>
-    <Status>2</Status>
+    <LanguageText>空闲</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>279</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Определение зашифрованных секторов...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行检测卡片加密……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>280</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Файл словаря ключей|*.dic</LanguageText>
-    <Status>2</Status>
+    <LanguageText>密钥字典文件|*.dic</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>281</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите файл словаря ключей, который вы хотите открыть.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>请选择需要打开的密钥字典文件</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>282</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>MifareOne - отменено</LanguageText>
-    <Status>2</Status>
+    <LanguageText>MifareOne Tool - отменено</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>283</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Начало расшифровки  MFOC в режиме словаря...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行字典模式MFOC解密……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>284</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Запуск расшифровки Cropto1...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行HardNested解密强化卡……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>285</StringID>
@@ -4959,368 +2992,333 @@ CUID карта</LanguageText>
   <GeneralTexts>
     <StringID>286</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>HardNested - сбор данных ...</LanguageText>
-    <Status>2</Status>
+    <LanguageText>开始执行HardNested收集数据……</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>287</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Устройство NFC было указано для использования:</LanguageText>
-    <Status>5</Status>
+    <LanguageText>已指定使用该NFC设备：</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>288</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите файл MFD, который вы хотите открыть (сравнить A)</LanguageText>
-    <Status>2</Status>
+    <LanguageText>请选择需要打开的MFD文件(比较A)</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>289</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите файл MFD, который вы хотите открыть (сравнит B)</LanguageText>
-    <Status>2</Status>
+    <LanguageText>请选择需要打开的MFD文件(比较B)</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>290</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Один или два файла A/B недействительны.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>AB文件中一个或两个无效。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>291</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Сектор </LanguageText>
-    <Status>2</Status>
+    <LanguageText>扇区 </LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>292</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Найдено </LanguageText>
-    <Status>2</Status>
+    <LanguageText>共找到 </LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>293</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>разных блоков
+    <LanguageText> 个块不同
 </LanguageText>
-    <Status>2</Status>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>294</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Неверная настройка, пожалуйста, измените ее.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>设置错误，请修改。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>295</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Показать сектор </LanguageText>
-    <Status>2</Status>
+    <LanguageText>显示扇区</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>296</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Текущий выбранный сектор: </LanguageText>
-    <Status>2</Status>
+    <LanguageText>当前选定扇区：</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>297</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ошибка проверки UID сектора была автоматически исправлена для вас.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>该扇区UID校验值错误，已经自动为您更正。
+</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>298</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Бит управления доступом сектора является недопустимым, запись повредит карту и была отменена.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>该扇区访问控制位无效，写入将会损坏卡片，已重新设置。
+</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>299</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Бит управления доступом сектора является недопустимым, запись повредит карту и была отменена.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>该扇区访问控制位损坏，写入将会损坏卡片，已重新设置。
+</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>300</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите файл MFD, который вы хотите открыть.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>请选择需要打开的MFD文件</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>301</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Открыть</LanguageText>
-    <Status>5</Status>
+    <LanguageText>打开了</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>302</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ошибка записи</LanguageText>
-    <Status>5</Status>
+    <LanguageText>写入出错</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>303</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Сохранено в</LanguageText>
-    <Status>5</Status>
+    <LanguageText>已保存到</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>304</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>305</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Текущие данные сектора по-прежнему имеют ошибки и не могут быть изменены.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>当前扇区数据仍有错误，不能执行修改。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>306</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Обновлен сектор </LanguageText>
-    <Status>2</Status>
+    <LanguageText>已更新扇区</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>307</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>## Ошибказначения в файле ###</LanguageText>
-    <Status>2</Status>
+    <LanguageText>##文件中的值错误##</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>308</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>С файлом все нормально.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>该文件一切正常。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>309</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Файл имеет следующую ошибку: 
+    <LanguageText>该文件存在以下错误：
 </LanguageText>
-    <Status>2</Status>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>310</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ошибка проверки UID сектора, нажмите, чтобы открыть сектор 0 для автоматического исправления.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>该扇区UID校验值错误，请点击打开扇区0来自动更正。
+</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>311</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Недопустимый бит контроля доступа к сектору. Запись повредит карту. Пожалуйста, отмените ее.
+    <LanguageText>该扇区访问控制位无效，写入将会损坏卡片，请重新设置。
 </LanguageText>
-    <Status>2</Status>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>312</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Бит контроля доступа к сектору поврежден, и запись повредит карту. Пожалуйста, отмените ее.
+    <LanguageText>该扇区访问控制位损坏，写入将会损坏卡片，请重新设置。
 </LanguageText>
-    <Status>2</Status>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>313</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>В этом секторе все в порядке.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>该扇区一切正常。
+</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>314</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, введите номер UID для изменения, всего 8 шестнадцатеричных чисел, например E44A3BF1.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>请输入需要更改的UID卡号，共8位十六进制数，如E44A3BF1。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>316</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>UID был изменен на</LanguageText>
-    <Status>5</Status>
+    <LanguageText>UID已改为</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>317</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>, рассчитан BCC = </LanguageText>
-    <Status>2</Status>
+    <LanguageText>，计算得到BCC=</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>318</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Сброшена и создана новая карта.</LanguageText>
-    <Status>2</Status>
+    <LanguageText>已重置并新建卡。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>319</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Значение проверки UID сектора неверно и было автоматически исправлено.
+    <LanguageText>该扇区UID校验值错误，已自动更正。
 </LanguageText>
-    <Status>5</Status>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>320</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите для MCT.txt расположение и имя файла</LanguageText>
-    <Status>2</Status>
+    <LanguageText>请选择MCT.txt文件保存位置及文件名</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>321</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Txt файл|*.txt</LanguageText>
-    <Status>2</Status>
+    <LanguageText>txt文件|*.txt</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>322</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>MCT файл был экспортирован</LanguageText>
-    <Status>5</Status>
+    <LanguageText>已导出MCT文件</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>323</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Выберите расположение и имя файла словаря ключей</LanguageText>
-    <Status>2</Status>
+    <LanguageText>请选择密钥字典文件保存位置及文件名</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>324</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Файл словаря|*.dic</LanguageText>
-    <Status>2</Status>
+    <LanguageText>字典文件|*.dic</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>325</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Экспортированный файлсловаря ключей</LanguageText>
-    <Status>2</Status>
+    <LanguageText>已导出密钥字典文件</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>326</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Формат MCT|*.*</LanguageText>
-    <Status>2</Status>
+    <LanguageText>MCT格式|*.*</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>327</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите файл формата MCT, который вы хотите открыть.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>请选择需要打开的MCT格式文件</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>328</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText># сектор </LanguageText>
-    <Status>2</Status>
+    <LanguageText>#扇区 </LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>329</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Пожалуйста, выберите файл данных карты, который вызвал повреждение последней 0 карты.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>请选择最后一次写卡导致0块损坏的卡数据文件</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>330</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Вы не предоставили файл данных карты, который вызвал 0 блоков повреждения, когда последняя запись была сделана в качестве ключевого источника при записи карты.
-Операция прекращена.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>您没有给定最后一次写卡导致0块损坏的卡数据文件来作为写卡时的密钥源。
+操作终止。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>331</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Не удалось найти программный файл MFF08.
-Операция прекращена.</LanguageText>
-    <Status>5</Status>
+    <LanguageText>无法找到MFF08程序文件。
+操作终止。</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>332</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>неизвестно</LanguageText>
-    <Status>2</Status>
+    <LanguageText>未知</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>333</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Вы уже запустили MifareOne Tool. Открытие нескольких программ может вызвать конфликты и непредсказуемые ошибки.
-Вы уверены, что хотите продолжить?</LanguageText>
-    <Status>2</Status>
+    <LanguageText>您已经运行了MifareOne Tool，打开多个本程序可能会造成冲突及不可预料到的错误。
+确认要继续吗？</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>334</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Повторный запуск</LanguageText>
-    <Status>2</Status>
+    <LanguageText>您正在试图重复运行</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>104</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Сравнение дампов</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>335</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>语言和地区</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>336</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>选择界面语言</LanguageText>
+    <LanguageText>DiffTool</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>337</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>标准</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>338</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>俄语</LanguageText>
     <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>337</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Китайский</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>338</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>Русский</LanguageText>
-    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>335</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Язык и регион</LanguageText>
-    <Status>2</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>336</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Выберите язык интерфейса</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>339</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>从这里开始</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>340</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>本工具仅支持SAK=08/18/28的
-卡片复制。SAK28无一键解密。
-若要复制S70卡片，请在高级界
-面上取消勾选“数据写入保护”。
-</LanguageText>
-    <Status>1</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>339</StringID>
@@ -5329,40 +3327,10 @@ CUID карта</LanguageText>
     <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>341</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>sharp_file_copy_black_18pt_1x.png</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>342</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>round_build_black_18pt_1x.png</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>343</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Hello,cardman!</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>344</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>计时器</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>344</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Таймер</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>345</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>round_settings_black_18pt_1x.png</LanguageText>
-    <Status>1</Status>
+    <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>340</StringID>
@@ -5374,28 +3342,10 @@ CUID карта</LanguageText>
     <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>346</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>显示UID</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>347</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Вы можете обновить данные вашей карты.</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>348</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>KeyAB читать, писать, увеличивать и уменьшать</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>348</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB читать, писать, увеличивать и уменьшать</LanguageText>
-    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>349</StringID>
@@ -5404,22 +3354,10 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>349</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[только для чтения] KeyAB для чтения и амортизации / недоступен для записи и добавляет ценность</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>350</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>[только для чтения] KeyAB для чтения / записи, а также для увеличения или уменьшения</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>350</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[только для чтения] KeyAB для чтения / записи, а также для увеличения или уменьшения</LanguageText>
-    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>351</StringID>
@@ -5428,22 +3366,10 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>351</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyB чтение / запись / не сложение и вычитание</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>352</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>KeyAB чтение / KeyB запись / без увеличения или уменьшения</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>352</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB чтение / KeyB запись / без увеличения или уменьшения</LanguageText>
-    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>353</StringID>
@@ -5452,22 +3378,10 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>353</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[Только для чтения] KeyB для чтения / не для записи и увеличения или уменьшения</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>354</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>KeyAB чтение и ухудшение / KeyB написание и добавленная стоимость</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>354</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB чтение и ухудшение / KeyB написание и добавленная стоимость</LanguageText>
-    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>355</StringID>
@@ -5476,22 +3390,10 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>355</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[только для чтения] заблокировать сектор</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>356</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>[Необратимый] KeyA: запись / AC: только чтение / KeyB: чтение и запись</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>356</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[Необратимый] KeyA: запись / AC: только чтение / KeyB: чтение и запись</LanguageText>
-    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>357</StringID>
@@ -5500,22 +3402,10 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>357</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA: запись / AC: чтение / запись / KeyB: чтение и запись</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>358</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>[Необратимый] KeyA: невозможно чтение / запись / AC: только для чтения / KeyB: чтение</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>358</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[Необратимый] KeyA: невозможно чтение / запись / AC: только для чтения / KeyB: чтение</LanguageText>
-    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>359</StringID>
@@ -5524,22 +3414,10 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>359</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA: B запись / AC: A только для чтения B чтение / запись / KeyB: B запись</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>360</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>[необратимый] KeyA: запись B / AC: только чтение AB / KeyB: запись B</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>360</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[необратимый] KeyA: запись B / AC: только чтение AB / KeyB: запись B</LanguageText>
-    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>361</StringID>
@@ -5548,34 +3426,16 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>361</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA: невозможно чтение / запись / AC: A только для чтения B чтение / запись / KeyB: невозможно чтение или запись</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>362</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>[Необратимый] KeyA: невозможно чтение / запись / AC: AB только для чтения / KeyB: невозможно чтение или запись</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>362</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[Необратимый] KeyA: невозможно чтение / запись / AC: AB только для чтения / KeyB: невозможно чтение или запись</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>363</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>[Необратимый] KeyA: невозможно чтение / запись / AC: AB только для чтения / KeyB: невозможно чтение или запись (повторяется?)</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>363</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>[Необратимый] KeyA: невозможно чтение / запись / AC: AB только для чтения / KeyB: невозможно чтение или запись (повторяется?)</LanguageText>
-    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>346</StringID>
@@ -5590,22 +3450,10 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>364</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>标准</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>365</StringID>
     <LanguageID>25</LanguageID>
     <LanguageText>Русский</LanguageText>
     <Status>7</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>365</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>俄语</LanguageText>
-    <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>366</StringID>
@@ -5614,159 +3462,236 @@ CUID карта</LanguageText>
     <Status>7</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>366</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Hello,cardman!</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>367</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>libnfc.conf</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>368</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>allow_autoscan = </LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>369</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>true</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>370</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>false</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>371</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText xml:space="preserve">
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>372</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>allow_intrusive_scan = </LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>373</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>device.name = "NFC-Device"
-</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>374</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>device.connstring = "</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>375</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>.mfd</LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>315</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>Ошибка ввода</LanguageText>
-    <Status>2</Status>
+    <LanguageText>InputError</LanguageText>
+    <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>376</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>376</StringID>
-    <LanguageID>25</LanguageID>
-    <LanguageText>___________________________________________</LanguageText>
-    <Status>2</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>377</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>-- </LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
-    <StringID>378</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>## </LanguageText>
-    <Status>1</Status>
-  </GeneralTexts>
-  <GeneralTexts>
     <StringID>379</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>：
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>379</StringID>
+    <StringID>390</StringID>
     <LanguageID>25</LanguageID>
-    <LanguageText>： 
-</LanguageText>
+    <LanguageText>K=</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>394</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Выбрать файл ключей</LanguageText>
+    <Status>7</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>395</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Операции с UID</LanguageText>
     <Status>2</Status>
   </GeneralTexts>
   <GeneralTexts>
+    <StringID>396</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Карта CUID</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>2</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>MifareOne Tool</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
     <StringID>380</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Установить драйвера libusb</LanguageText>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Установить драйвера libusbK</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>381</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Cropto1</LanguageText>
+    <StringID>388</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Инструкция по установке</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>382</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>label1</LanguageText>
+    <StringID>392</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>(отсутствует)</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>383</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>FFFFFFFFFFFF 8 A 16 A</LanguageText>
+    <StringID>385</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Bitsliced Cropto-1</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>79</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>HardNested</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>386</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Драйвера</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>61</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>1. Начните здесь</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>60</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>2. Чтение карты</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>59</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>3. Запись карты</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>103</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>statusStrip1</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>342</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>round_build_black_18pt_1x.png</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>341</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>sharp_file_copy_black_18pt_1x.png</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>345</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>icons8-wrench-24.png</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>393</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Расшифровка карты</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>384</StringID>
-    <LanguageID>30724</LanguageID>
+    <LanguageID>25</LanguageID>
     <LanguageText>После того, как вы нажмете 
 кнопку "Начать", 
 ожидайте около 1 минуты.</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>385</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Bitsliced Cropto-1</LanguageText>
+    <StringID>121</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>0</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>386</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Драйвера</LanguageText>
+    <StringID>156</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>menuStrip1</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
-    <StringID>387</StringID>
-    <LanguageID>30724</LanguageID>
-    <LanguageText>Китайский</LanguageText>
+    <StringID>347</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>Вы можете обновить данные вашей карты.</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>367</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>libnfc.conf</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>368</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>allow_autoscan = </LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>369</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>true</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>370</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>false</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>371</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText xml:space="preserve">
+</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>372</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>allow_intrusive_scan = </LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>373</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>device.name = "NFC-Device"
+</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>374</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>device.connstring = "</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>375</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>.mfd</LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>377</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>-- </LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>378</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>## </LanguageText>
+    <Status>1</Status>
+  </GeneralTexts>
+  <GeneralTexts>
+    <StringID>204</StringID>
+    <LanguageID>25</LanguageID>
+    <LanguageText>[0-9A-Fa-f]{32}</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <Properties>
@@ -5924,7 +3849,7 @@ CUID карта</LanguageText>
   <Properties>
     <Component>Form1.cs</Component>
     <Name>buttonSelectKey.Text</Name>
-    <StringID>20</StringID>
+    <StringID>394</StringID>
     <Selected>true</Selected>
     <ResourceName>buttonSelectKey.Text</ResourceName>
     <Hidden>false</Hidden>
@@ -6404,7 +4329,7 @@ CUID карта</LanguageText>
   <Properties>
     <Component>Form1.cs</Component>
     <Name>groupBox9.Text</Name>
-    <StringID>80</StringID>
+    <StringID>396</StringID>
     <Selected>true</Selected>
     <ResourceName>groupBox9.Text</ResourceName>
     <Hidden>false</Hidden>
@@ -6420,7 +4345,7 @@ CUID карта</LanguageText>
   <Properties>
     <Component>Form1.cs</Component>
     <Name>groupBox8.Text</Name>
-    <StringID>82</StringID>
+    <StringID>395</StringID>
     <Selected>true</Selected>
     <ResourceName>groupBox8.Text</ResourceName>
     <Hidden>false</Hidden>
@@ -7179,14 +5104,6 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Form1.resx</Component>
-    <Name>groupBox8.Text</Name>
-    <StringID>82</StringID>
-    <Selected>true</Selected>
-    <ResourceName>groupBox8.Text</ResourceName>
-    <Hidden>false</Hidden>
-  </Properties>
-  <Properties>
-    <Component>Form1.resx</Component>
     <Name>buttonEStop.Text</Name>
     <StringID>55</StringID>
     <Selected>true</Selected>
@@ -7492,7 +5409,7 @@ CUID карта</LanguageText>
   <Properties>
     <Component>Form1.resx</Component>
     <Name>buttonSelectKey.Text</Name>
-    <StringID>20</StringID>
+    <StringID>394</StringID>
     <Selected>true</Selected>
     <ResourceName>buttonSelectKey.Text</ResourceName>
     <Hidden>false</Hidden>
@@ -9419,14 +7336,6 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_未保存</Name>
-    <StringID>217</StringID>
-    <Selected>true</Selected>
-    <ResourceName>_未保存</ResourceName>
-    <Hidden>false</Hidden>
-  </Properties>
-  <Properties>
-    <Component>Resources.resx</Component>
     <Name>_Nonce收集完毕</Name>
     <StringID>218</StringID>
     <Selected>true</Selected>
@@ -9443,34 +7352,10 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>识别了以下设备</Name>
-    <StringID>220</StringID>
-    <Selected>true</Selected>
-    <ResourceName>识别了以下设备</ResourceName>
-    <Hidden>false</Hidden>
-  </Properties>
-  <Properties>
-    <Component>Resources.resx</Component>
     <Name>将自动选择首个设备</Name>
     <StringID>221</StringID>
     <Selected>true</Selected>
     <ResourceName>将自动选择首个设备</ResourceName>
-    <Hidden>false</Hidden>
-  </Properties>
-  <Properties>
-    <Component>Resources.resx</Component>
-    <Name>没有发现任何有效的NFC设备</Name>
-    <StringID>222</StringID>
-    <Selected>true</Selected>
-    <ResourceName>没有发现任何有效的NFC设备</ResourceName>
-    <Hidden>false</Hidden>
-  </Properties>
-  <Properties>
-    <Component>Resources.resx</Component>
-    <Name>请检查接线是否正确_驱动是否正常安装_设备电源是否已经打开_</Name>
-    <StringID>223</StringID>
-    <Selected>true</Selected>
-    <ResourceName>请检查接线是否正确_驱动是否正常安装_设备电源是否已经打开_</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -10807,6 +8692,102 @@ CUID карта</LanguageText>
     <ResourceName>comboBox1.Items1</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
+  <Properties>
+    <Component>Form1.resx</Component>
+    <Name>button2.Text</Name>
+    <StringID>388</StringID>
+    <Selected>true</Selected>
+    <ResourceName>button2.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.cs</Component>
+    <Name>button2.Text</Name>
+    <StringID>388</StringID>
+    <Selected>true</Selected>
+    <ResourceName>button2.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Resources.resx</Component>
+    <Name>请检查接线是否正确_驱动是否正常安装_设备电源是否已经打开_</Name>
+    <StringID>223</StringID>
+    <Selected>true</Selected>
+    <ResourceName>请检查接线是否正确_驱动是否正常安装_设备电源是否已经打开_</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Resources.resx</Component>
+    <Name>识别了以下设备</Name>
+    <StringID>220</StringID>
+    <Selected>true</Selected>
+    <ResourceName>识别了以下设备</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Resources.resx</Component>
+    <Name>没有发现任何有效的NFC设备</Name>
+    <StringID>222</StringID>
+    <Selected>true</Selected>
+    <ResourceName>没有发现任何有效的NFC设备</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Resources.resx</Component>
+    <Name>_未保存</Name>
+    <StringID>217</StringID>
+    <Selected>true</Selected>
+    <ResourceName>_未保存</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Resources.resx</Component>
+    <Name>K</Name>
+    <StringID>390</StringID>
+    <Selected>true</Selected>
+    <ResourceName>K</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.resx</Component>
+    <Name>buttonEscan.ImageKey</Name>
+    <StringID>392</StringID>
+    <Selected>true</Selected>
+    <ResourceName>buttonEscan.ImageKey</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.resx</Component>
+    <Name>tabPage4.Text</Name>
+    <StringID>393</StringID>
+    <Selected>true</Selected>
+    <ResourceName>tabPage4.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.cs</Component>
+    <Name>buttonEscan.ImageKey</Name>
+    <StringID>392</StringID>
+    <Selected>true</Selected>
+    <ResourceName>buttonEscan.ImageKey</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.cs</Component>
+    <Name>tabPage4.Text</Name>
+    <StringID>393</StringID>
+    <Selected>true</Selected>
+    <ResourceName>tabPage4.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
+  <Properties>
+    <Component>Form1.resx</Component>
+    <Name>groupBox8.Text</Name>
+    <StringID>395</StringID>
+    <Selected>true</Selected>
+    <ResourceName>groupBox8.Text</ResourceName>
+    <Hidden>false</Hidden>
+  </Properties>
   <GeneralAttributes>
     <Name>XmlDatabaseVersion</Name>
     <TextValue>1</TextValue>
@@ -10819,8 +8800,8 @@ CUID карта</LanguageText>
   </GeneralAttributes>
   <GeneralAttributes>
     <Name>Dirty</Name>
-    <TextValue>False</TextValue>
-    <NumValue>0</NumValue>
+    <TextValue>True</TextValue>
+    <NumValue>1</NumValue>
   </GeneralAttributes>
   <GeneralAttributes>
     <Name>SourceCodeSupport</Name>
@@ -10834,7 +8815,7 @@ CUID карта</LanguageText>
   </GeneralAttributes>
   <GeneralAttributes>
     <Name>OriginalLanguageIetfTag</Name>
-    <TextValue>zh</TextValue>
+    <TextValue>ru</TextValue>
     <NumValue>0</NumValue>
   </GeneralAttributes>
   <GeneralAttributes>

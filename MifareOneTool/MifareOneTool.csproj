@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
@@ -10,8 +10,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MifareOneTool</RootNamespace>
     <AssemblyName>MifareOneTool</AssemblyName>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
@@ -39,6 +40,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -48,6 +50,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>nfc_128.ico</ApplicationIcon>
@@ -60,6 +63,7 @@
     <PlatformTarget>x86</PlatformTarget>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'MifareOneTool|x86'">
     <OutputPath>..\..\Сборки\MifareOneTool\</OutputPath>
@@ -69,6 +73,7 @@
     <PlatformTarget>x86</PlatformTarget>
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="AutoUpdater.NET, Version=1.5.1.0, Culture=neutral, PublicKeyToken=501435c91b35f4bc, processorArchitecture=MSIL">
@@ -131,16 +136,10 @@
     <EmbeddedResource Include="Form1.ru.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.zh.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormDiff.resx">
       <DependentUpon>FormDiff.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormDiff.ru.resx">
-      <DependentUpon>FormDiff.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormDiff.zh.resx">
       <DependentUpon>FormDiff.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormHardNes.resx">
@@ -149,16 +148,10 @@
     <EmbeddedResource Include="FormHardNes.ru.resx">
       <DependentUpon>FormHardNes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormHardNes.zh.resx">
-      <DependentUpon>FormHardNes.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="FormHTool.resx">
       <DependentUpon>FormHTool.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormHTool.ru.resx">
-      <DependentUpon>FormHTool.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormHTool.zh.resx">
       <DependentUpon>FormHTool.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMFF08.resx">
@@ -166,9 +159,6 @@
       <SubType>Designer</SubType>
     </EmbeddedResource>
     <EmbeddedResource Include="FormMFF08.ru.resx">
-      <DependentUpon>FormMFF08.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormMFF08.zh.resx">
       <DependentUpon>FormMFF08.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -184,9 +174,6 @@
     <EmbeddedResource Include="Properties\Resources.ru.resx">
       <DependentUpon>Resources.resx</DependentUpon>
       <SubType>Designer</SubType>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.zh.resx">
-      <DependentUpon>Resources.resx</DependentUpon>
     </EmbeddedResource>
     <None Include="app.config" />
     <None Include="packages.config" />
@@ -225,6 +212,44 @@
   <ItemGroup>
     <Content Include="MifareOneTool_ml.xml" />
     <Content Include="nfc_128.ico" />
+    <None Include="Resources\icons8-delete-24.png" />
+    <None Include="Resources\trash-can-outline.png" />
+    <None Include="Resources\content-save-outline.png" />
+    <None Include="Resources\icons8-wrench-24.png" />
+    <None Include="Resources\file-document-edit-outline.png" />
+    <None Include="Resources\file-compare.png" />
+    <None Include="Resources\playlist-edit.png" />
+    <None Include="Resources\icons8-binary-file-24 %281%29.png" />
+    <None Include="Resources\icons8-countdown-clock-24.png" />
+    <None Include="Resources\trash-can-outline %282%29.png" />
+    <None Include="Resources\icons8-edit-row-24.png" />
+    <None Include="Resources\apple-keyboard-command.png" />
+    <None Include="Resources\format-clear.png" />
+    <None Include="Resources\ic_feature_search_outline_grey600_24dp.png" />
+    <None Include="Resources\icons8-access-24.png" />
+    <None Include="Resources\icons8-data-encryption-24.png" />
+    <None Include="Resources\icons8-credit-card-24.png" />
+    <None Include="Resources\icons8-key-2-24.png" />
+    <None Include="Resources\icons8-file-24.png" />
+    <None Include="Resources\stop-circle-outline.png" />
+    <None Include="Resources\check-all.png" />
+    <None Include="Resources\ic_pencil_remove_outline_grey600_24dp.png" />
+    <None Include="Resources\ic_pencil_plus_outline_grey600_24dp.png" />
+    <None Include="Resources\ic_pencil_lock_outline_grey600_24dp.png" />
+    <None Include="Resources\ic_pencil_outline_grey600_24dp.png" />
+    <None Include="Resources\ic_counter_grey600_24dp.png" />
+    <None Include="Resources\ic_numeric_1_circle_outline_grey600_18dp.png" />
+    <None Include="Resources\ic_fingerprint_grey600_24dp.png" />
+    <None Include="Resources\ic-arrow-right.png" />
+    <None Include="Resources\chevron-right.png" />
+    <None Include="Resources\menu-right-outline.png" />
+    <None Include="Resources\plus-circle-outline.png" />
+    <None Include="Resources\ic_key_outline_grey600_24dp.png" />
+    <None Include="Resources\ic_key_plus_grey600_24dp.png" />
+    <None Include="Resources\ic_arrow_decision_auto_outline_grey600_24dp.png" />
+    <None Include="Resources\ic_lock_outline_grey600_24dp.png" />
+    <None Include="Resources\ic_credit_card_plus_grey600_24dp.png" />
+    <None Include="Resources\ic_nfc_search_variant_grey600_24dp.png" />
     <None Include="Resources\round_sync_black_18pt_1x.png" />
     <None Include="Resources\outline_info_black_18pt_1x.png" />
     <None Include="Resources\round_info_black_18pt_1x.png" />

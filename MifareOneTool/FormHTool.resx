@@ -117,6 +117,290 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="buttonSaveSectorEdit.Text" xml:space="preserve">
+    <value>修改扇区(Enter)</value>
+    <comment>Previous text: Изменить сектор (Enter)</comment>
+  </data>
+  <data name="Column1.HeaderText" xml:space="preserve">
+    <value>扇区</value>
+  </data>
+  <data name="comboBox1.Items" xml:space="preserve">
+    <value>KeyAB читать, писать, увеличивать и уменьшать</value>
+    <comment>Previous text: KeyAB读写及增减值</comment>
+  </data>
+  <data name="comboBox1.Items1" xml:space="preserve">
+    <value>[только для чтения] KeyAB для чтения и амортизации / недоступен для записи и добавляет ценность</value>
+    <comment>Previous text: [只读]KeyAB读及减值/不可写及增值</comment>
+  </data>
+  <data name="comboBox1.Items2" xml:space="preserve">
+    <value>[только для чтения] KeyAB для чтения / записи, а также для увеличения или уменьшения</value>
+    <comment>Previous text: [只读]KeyAB读/不可写及增减值</comment>
+  </data>
+  <data name="comboBox1.Items3" xml:space="preserve">
+    <value>KeyB чтение / запись / не сложение и вычитание</value>
+    <comment>Previous text: KeyB读写/不可增减值</comment>
+  </data>
+  <data name="comboBox1.Items4" xml:space="preserve">
+    <value>KeyAB чтение / KeyB запись / без увеличения или уменьшения</value>
+    <comment>Previous text: KeyAB读/KeyB写/不可增减值</comment>
+  </data>
+  <data name="comboBox1.Items5" xml:space="preserve">
+    <value>[Только для чтения] KeyB для чтения / не для записи и увеличения или уменьшения</value>
+    <comment>Previous text: [只读]KeyB读/不可写及增减值</comment>
+  </data>
+  <data name="comboBox1.Items6" xml:space="preserve">
+    <value>KeyAB чтение и ухудшение / KeyB написание и добавленная стоимость</value>
+    <comment>Previous text: KeyAB读及减值/KeyB写及增值</comment>
+  </data>
+  <data name="comboBox1.Items7" xml:space="preserve">
+    <value>[только для чтения] заблокировать сектор</value>
+    <comment>Previous text: [只读]锁死该扇区</comment>
+  </data>
+  <data name="comboBox2.Items" xml:space="preserve">
+    <value>KeyAB читать, писать, увеличивать и уменьшать</value>
+    <comment>Previous text: KeyAB读写及增减值</comment>
+  </data>
+  <data name="comboBox2.Items1" xml:space="preserve">
+    <value>[только для чтения] KeyAB для чтения и амортизации / недоступен для записи и добавляет ценность</value>
+    <comment>Previous text: [只读]KeyAB读及减值/不可写及增值</comment>
+  </data>
+  <data name="comboBox2.Items2" xml:space="preserve">
+    <value>[только для чтения] KeyAB для чтения / записи, а также для увеличения или уменьшения</value>
+    <comment>Previous text: [只读]KeyAB读/不可写及增减值</comment>
+  </data>
+  <data name="comboBox2.Items3" xml:space="preserve">
+    <value>KeyB чтение / запись / не сложение и вычитание</value>
+    <comment>Previous text: KeyB读写/不可增减值</comment>
+  </data>
+  <data name="comboBox2.Items4" xml:space="preserve">
+    <value>KeyAB чтение / KeyB запись / без увеличения или уменьшения</value>
+    <comment>Previous text: KeyAB读/KeyB写/不可增减值</comment>
+  </data>
+  <data name="comboBox2.Items5" xml:space="preserve">
+    <value>[Только для чтения] KeyB для чтения / не для записи и увеличения или уменьшения</value>
+    <comment>Previous text: [只读]KeyB读/不可写及增减值</comment>
+  </data>
+  <data name="comboBox2.Items6" xml:space="preserve">
+    <value>KeyAB чтение и ухудшение / KeyB написание и добавленная стоимость</value>
+    <comment>Previous text: KeyAB读及减值/KeyB写及增值</comment>
+  </data>
+  <data name="comboBox2.Items7" xml:space="preserve">
+    <value>[только для чтения] заблокировать сектор</value>
+    <comment>Previous text: [只读]锁死该扇区</comment>
+  </data>
+  <data name="comboBox3.Items" xml:space="preserve">
+    <value>KeyAB читать, писать, увеличивать и уменьшать</value>
+    <comment>Previous text: KeyAB读写及增减值</comment>
+  </data>
+  <data name="comboBox3.Items1" xml:space="preserve">
+    <value>[только для чтения] KeyAB для чтения и амортизации / недоступен для записи и добавляет ценность</value>
+    <comment>Previous text: [只读]KeyAB读及减值/不可写及增值</comment>
+  </data>
+  <data name="comboBox3.Items2" xml:space="preserve">
+    <value>[только для чтения] KeyAB для чтения / записи, а также для увеличения или уменьшения</value>
+    <comment>Previous text: [只读]KeyAB读/不可写及增减值</comment>
+  </data>
+  <data name="comboBox3.Items3" xml:space="preserve">
+    <value>KeyB чтение / запись / не сложение и вычитание</value>
+    <comment>Previous text: KeyB读写/不可增减值</comment>
+  </data>
+  <data name="comboBox3.Items4" xml:space="preserve">
+    <value>KeyAB чтение / KeyB запись / без увеличения или уменьшения</value>
+    <comment>Previous text: KeyAB读/KeyB写/不可增减值</comment>
+  </data>
+  <data name="comboBox3.Items5" xml:space="preserve">
+    <value>[Только для чтения] KeyB для чтения / не для записи и увеличения или уменьшения</value>
+    <comment>Previous text: [只读]KeyB读/不可写及增减值</comment>
+  </data>
+  <data name="comboBox3.Items6" xml:space="preserve">
+    <value>KeyAB чтение и ухудшение / KeyB написание и добавленная стоимость</value>
+    <comment>Previous text: KeyAB读及减值/KeyB写及增值</comment>
+  </data>
+  <data name="comboBox3.Items7" xml:space="preserve">
+    <value>[только для чтения] заблокировать сектор</value>
+    <comment>Previous text: [只读]锁死该扇区</comment>
+  </data>
+  <data name="comboBox4.Items" xml:space="preserve">
+    <value>[Необратимый] KeyA: запись / AC: только чтение / KeyB: чтение и запись</value>
+    <comment>Previous text: [不可逆]KeyA:A写/AC:A只读/KeyB:A读写</comment>
+  </data>
+  <data name="comboBox4.Items1" xml:space="preserve">
+    <value>KeyA: запись / AC: чтение / запись / KeyB: чтение и запись</value>
+    <comment>Previous text: KeyA:A写/AC:A读写/KeyB:A读写</comment>
+  </data>
+  <data name="comboBox4.Items2" xml:space="preserve">
+    <value>[Необратимый] KeyA: невозможно чтение / запись / AC: только для чтения / KeyB: чтение</value>
+    <comment>Previous text: [不可逆]KeyA:不能读写/AC:A只读/KeyB:A读</comment>
+  </data>
+  <data name="comboBox4.Items3" xml:space="preserve">
+    <value>KeyA: B запись / AC: A только для чтения B чтение / запись / KeyB: B запись</value>
+    <comment>Previous text: KeyA:B写/AC:A只读B读写/KeyB:B写</comment>
+  </data>
+  <data name="comboBox4.Items4" xml:space="preserve">
+    <value>[необратимый] KeyA: запись B / AC: только чтение AB / KeyB: запись B</value>
+    <comment>Previous text: [不可逆]KeyA:B写/AC:AB只读/KeyB:B写</comment>
+  </data>
+  <data name="comboBox4.Items5" xml:space="preserve">
+    <value>KeyA: невозможно чтение / запись / AC: A только для чтения B чтение / запись / KeyB: невозможно чтение или запись</value>
+    <comment>Previous text: KeyA:不能读写/AC:A只读B读写/KeyB:不能读写</comment>
+  </data>
+  <data name="comboBox4.Items6" xml:space="preserve">
+    <value>[Необратимый] KeyA: невозможно чтение / запись / AC: AB только для чтения / KeyB: невозможно чтение или запись</value>
+    <comment>Previous text: [不可逆]KeyA:不能读写/AC:AB只读/KeyB:不能读写</comment>
+  </data>
+  <data name="comboBox4.Items7" xml:space="preserve">
+    <value>[Необратимый] KeyA: невозможно чтение / запись / AC: AB только для чтения / KeyB: невозможно чтение или запись (повторяется?)</value>
+    <comment>Previous text: [不可逆]KeyA:不能读写/AC:AB只读/KeyB:不能读写(重复了?)</comment>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>S50HTool-beta</value>
+    <comment>Previous text: Редактор дампа (бета)</comment>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>扇区列表</value>
+    <comment>Previous text: Список секторов</comment>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>扇区信息</value>
+    <comment>Previous text: Информация о секторе</comment>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>输出</value>
+    <comment>Previous text: Просмотр</comment>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>第0块</value>
+    <comment>Previous text: Блок 0</comment>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>第1块</value>
+    <comment>Previous text: Блок 1</comment>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>第2块</value>
+    <comment>Previous text: Блок 2</comment>
+  </data>
+  <data name="label4.Text" xml:space="preserve">
+    <value>KeyA</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>KeyB</value>
+  </data>
+  <data name="label6.Text" xml:space="preserve">
+    <value>0块权限</value>
+    <comment>Previous text: Условия доступа блока 0</comment>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>1块权限</value>
+    <comment>Previous text: Условия доступа блока 1</comment>
+  </data>
+  <data name="label8.Text" xml:space="preserve">
+    <value>2块权限</value>
+    <comment>Previous text: Условия доступа блока 2</comment>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Key/ACbits权限</value>
+    <comment>Previous text: Ключ / ACbits разрешение</comment>
+  </data>
+  <data name="labelCurSec.Text" xml:space="preserve">
+    <value>当前选定扇区：？？</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="richTextBox1.Lines[0]" xml:space="preserve">
+    <value>Добро пожаловать в интегрированный редактор дампа!</value>
+    <comment>Previous text: Добро пожаловать в интегрированный редактор M1T S50HTool!</comment>
+  </data>
+  <data name="richTextBox1.Lines[1]" xml:space="preserve">
+    <value>Чтобы открыть файл, пожалуйста, нажмите на Файл в верхнем левом углу - Открыть или Ctrl + O</value>
+    <comment>Previous text: Откройте файл, пожалуйста, нажмите на файл в верхнем левом углу - открыть или Ctrl + O</comment>
+  </data>
+  <data name="richTextBox1.Lines[2]" xml:space="preserve">
+    <value>Вы можете обновить данные вашей карты.</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>欢迎使用M1T的集成编辑器S50HTool！
+打开文件请点左上角文件-打开或Ctrl+O
+</value>
+    <comment>Previous text: Добро пожаловать в интегрированный редактор дампа!
+Чтобы открыть файл, пожалуйста, нажмите на Файл в верхнем левом углу - Открыть или Ctrl + O
+Вы можете обновить данные вашей карты.</comment>
+  </data>
+  <data name="保存ToolStripMenuItem.Text" xml:space="preserve">
+    <value>保存</value>
+    <comment>Previous text: Сохранить</comment>
+  </data>
+  <data name="修改UIDToolStripMenuItem.Text" xml:space="preserve">
+    <value>修改UID</value>
+    <comment>Previous text: Изменить UID</comment>
+  </data>
+  <data name="列出全卡密钥ToolStripMenuItem.Text" xml:space="preserve">
+    <value>列出全卡密钥</value>
+    <comment>Previous text: Перечислите полный ключ карты</comment>
+  </data>
+  <data name="另存为ToolStripMenuItem.Text" xml:space="preserve">
+    <value>另存为</value>
+    <comment>Previous text: Сохранить как</comment>
+  </data>
+  <data name="导入MCT格式ToolStripMenuItem.Text" xml:space="preserve">
+    <value>导入MCT格式</value>
+    <comment>Previous text: Импортировать формат MCT</comment>
+  </data>
+  <data name="导出为MCT格式ToolStripMenuItem.Text" xml:space="preserve">
+    <value>导出为MCT格式</value>
+    <comment>Previous text: Экспорт в формат MCT</comment>
+  </data>
+  <data name="导出密钥字典ToolStripMenuItem.Text" xml:space="preserve">
+    <value>导出密钥字典</value>
+    <comment>Previous text: Словарь ключей экспорта</comment>
+  </data>
+  <data name="工具ToolStripMenuItem.Text" xml:space="preserve">
+    <value>工具</value>
+    <comment>Previous text: Инструменты</comment>
+  </data>
+  <data name="打开ToolStripMenuItem.Text" xml:space="preserve">
+    <value>打开</value>
+    <comment>Previous text: Открыть</comment>
+  </data>
+  <data name="文件ToolStripMenuItem.Text" xml:space="preserve">
+    <value>文件</value>
+    <comment>Previous text: Файл</comment>
+  </data>
+  <data name="新建ToolStripMenuItem.Text" xml:space="preserve">
+    <value>新建</value>
+    <comment>Previous text: Создать</comment>
+  </data>
+  <data name="检查全卡ToolStripMenuItem.Text" xml:space="preserve">
+    <value>检查全卡</value>
+    <comment>Previous text: Проверка полной карты</comment>
+  </data>
+  <data name="检查并纠正全卡ToolStripMenuItem.Text" xml:space="preserve">
+    <value>检查并纠正全卡</value>
+    <comment>Previous text: Проверка и исправление полной карты</comment>
+  </data>
+  <data name="退出ToolStripMenuItem.Text" xml:space="preserve">
+    <value>退出</value>
+    <comment>Previous text: Выход</comment>
+  </data>
+  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>ru</value>
+  </metadata>
+  <metadata name="s50BindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>155, 17</value>
+  </metadata>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
   <data name="&gt;&gt;comboBox4.ZOrder" xml:space="preserve">
     <value>7</value>
   </data>
@@ -144,20 +428,8 @@
   <data name="退出ToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Alt+X</value>
   </data>
-  <data name="label7.Text" xml:space="preserve">
-    <value>1块权限</value>
-  </data>
   <data name="&gt;&gt;label5.ZOrder" xml:space="preserve">
     <value>2</value>
-  </data>
-  <data name="comboBox4.Items7" xml:space="preserve">
-    <value>[Необратимый] KeyA: невозможно чтение / запись / AC: AB только для чтения / KeyB: невозможно чтение или запись (повторяется?)</value>
-  </data>
-  <data name="comboBox2.Items5" xml:space="preserve">
-    <value>[Только для чтения] KeyB для чтения / не для записи и увеличения или уменьшения</value>
-  </data>
-  <data name="comboBox3.Items2" xml:space="preserve">
-    <value>[только для чтения] KeyAB для чтения / записи, а также для увеличения или уменьшения</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel2.ZOrder" xml:space="preserve">
     <value>0</value>
@@ -210,9 +482,6 @@
   <data name="flowLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>216, 46</value>
   </data>
-  <data name="comboBox3.Items5" xml:space="preserve">
-    <value>[Только для чтения] KeyB для чтения / не для записи и увеличения или уменьшения</value>
-  </data>
   <data name="&gt;&gt;block1Edit.Name" xml:space="preserve">
     <value>block1Edit</value>
   </data>
@@ -225,20 +494,11 @@
   <data name="labelCurSec.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="检查并纠正全卡ToolStripMenuItem.Text" xml:space="preserve">
-    <value>检查并纠正全卡</value>
-  </data>
   <data name="buttonSaveSectorEdit.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="dataGridView1.RowHeadersWidth" type="System.Int32, mscorlib">
     <value>20</value>
-  </data>
-  <data name="列出全卡密钥ToolStripMenuItem.Text" xml:space="preserve">
-    <value>列出全卡密钥</value>
-  </data>
-  <data name="buttonSaveSectorEdit.Text" xml:space="preserve">
-    <value>修改扇区(Enter)</value>
   </data>
   <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -246,14 +506,11 @@
   <data name="tableLayoutPanel2.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
     <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="flowLayoutPanel3" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="tableLayoutPanel3" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="flowLayoutPanel1" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="flowLayoutPanel2" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,100" /&gt;&lt;Rows Styles="AutoSize,0,AutoSize,0,AutoSize,0,AutoSize,0" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
-  <data name="comboBox2.Items7" xml:space="preserve">
-    <value>[только для чтения] заблокировать сектор</value>
+  <data name="&gt;&gt;labelCurSec.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="dataGridView1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
-  </data>
-  <data name="comboBox3.Items4" xml:space="preserve">
-    <value>KeyAB чтение / KeyB запись / без увеличения или уменьшения</value>
   </data>
   <data name="&gt;&gt;flowLayoutPanel1.Parent" xml:space="preserve">
     <value>tableLayoutPanel2</value>
@@ -269,9 +526,6 @@
   </data>
   <data name="导出为MCT格式ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>199, 22</value>
-  </data>
-  <data name="richTextBox1.Lines[0]" xml:space="preserve">
-    <value>Добро пожаловать в интегрированный редактор дампа!</value>
   </data>
   <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>188, 420</value>
@@ -303,12 +557,6 @@
   <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Yu Gothic UI Semibold, 9.75pt, style=Bold</value>
   </data>
-  <data name="comboBox2.Items6" xml:space="preserve">
-    <value>KeyAB чтение и ухудшение / KeyB написание и добавленная стоимость</value>
-  </data>
-  <data name="comboBox3.Items7" xml:space="preserve">
-    <value>[только для чтения] заблокировать сектор</value>
-  </data>
   <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
@@ -323,9 +571,6 @@
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 15</value>
-  </data>
-  <data name="Column1.HeaderText" xml:space="preserve">
-    <value>扇区</value>
   </data>
   <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
     <value>224, 420</value>
@@ -345,9 +590,6 @@
   <data name="tableLayoutPanel3.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>S50HTool-beta</value>
-  </data>
   <data name="richTextBox1.ScrollBars" type="System.Windows.Forms.RichTextBoxScrollBars, System.Windows.Forms">
     <value>Vertical</value>
   </data>
@@ -356,9 +598,6 @@
   </data>
   <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
     <value>Yu Gothic UI, 9.75pt, style=Bold</value>
-  </data>
-  <data name="comboBox3.Items6" xml:space="preserve">
-    <value>KeyAB чтение и ухудшение / KeyB написание и добавленная стоимость</value>
   </data>
   <data name="menuStrip1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 2, 0, 2</value>
@@ -378,17 +617,14 @@
   <data name="groupBox2.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="richTextBox1.Lines[2]" xml:space="preserve">
-    <value>Вы можете обновить данные вашей карты.</value>
-  </data>
   <data name="&gt;&gt;label8.Parent" xml:space="preserve">
     <value>flowLayoutPanel3</value>
   </data>
   <data name="label9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="&gt;&gt;labelCurSec.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="导出密钥字典ToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
+    <value>Ctrl+N</value>
   </data>
   <data name="打开ToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+O</value>
@@ -417,8 +653,8 @@
   <data name="flowLayoutPanel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
-    <value>flowLayoutPanel3</value>
+  <data name="flowLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
   <data name="groupBox2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -474,8 +710,8 @@
   <data name="label3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 0, 2, 0</value>
   </data>
-  <data name="block1Edit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>211, 23</value>
+  <data name="tableLayoutPanel3.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label4" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="keyAEdit" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label5" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="keyBEdit" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="AutoSize,0,AutoSize,0" /&gt;&lt;/TableLayoutSettings&gt;</value>
   </data>
   <data name="groupBox3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
@@ -485,6 +721,9 @@
   </data>
   <data name="tableLayoutPanel3.ColumnCount" type="System.Int32, mscorlib">
     <value>2</value>
+  </data>
+  <data name="&gt;&gt;label7.Parent" xml:space="preserve">
+    <value>flowLayoutPanel3</value>
   </data>
   <data name="buttonSaveSectorEdit.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -525,9 +764,6 @@
   <data name="&gt;&gt;flowLayoutPanel3.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="保存ToolStripMenuItem.Text" xml:space="preserve">
-    <value>保存</value>
-  </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -546,9 +782,6 @@
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="labelCurSec.Text" xml:space="preserve">
-    <value>当前选定扇区：？？</value>
-  </data>
   <data name="tableLayoutPanel1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -563,9 +796,6 @@
   </data>
   <data name="dataGridView1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
-  </data>
-  <data name="labelCurSec.Size" type="System.Drawing.Size, System.Drawing">
-    <value>113, 15</value>
   </data>
   <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
     <value>211, 23</value>
@@ -585,6 +815,9 @@
   <data name="&gt;&gt;dataGridView1.Parent" xml:space="preserve">
     <value>groupBox1</value>
   </data>
+  <data name="label6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 0, 2, 0</value>
+  </data>
   <data name="&gt;&gt;打开ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -596,9 +829,6 @@
   </data>
   <data name="&gt;&gt;检查并纠正全卡ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="label4.Text" xml:space="preserve">
-    <value>KeyA</value>
   </data>
   <data name="label8.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -669,11 +899,17 @@
   <data name="&gt;&gt;label9.Name" xml:space="preserve">
     <value>label9</value>
   </data>
+  <data name="buttonSaveSectorEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 17</value>
+  </data>
   <data name="tableLayoutPanel3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
   <data name="dataGridView1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
+  </data>
+  <data name="block1Edit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>211, 23</value>
   </data>
   <data name="&gt;&gt;comboBox3.Parent" xml:space="preserve">
     <value>flowLayoutPanel3</value>
@@ -723,9 +959,6 @@
   <data name="keyBEdit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>第0块</value>
-  </data>
   <data name="tableLayoutPanel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
@@ -750,12 +983,6 @@
   <data name="&gt;&gt;flowLayoutPanel1.Name" xml:space="preserve">
     <value>flowLayoutPanel1</value>
   </data>
-  <data name="menuStrip1.Text" xml:space="preserve">
-    <value>menuStrip1</value>
-  </data>
-  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
   <data name="label7.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -768,14 +995,11 @@
   <data name="&gt;&gt;dataGridView1.Name" xml:space="preserve">
     <value>dataGridView1</value>
   </data>
-  <data name="label5.Text" xml:space="preserve">
-    <value>KeyB</value>
-  </data>
   <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="comboBox4.TabIndex" type="System.Int32, mscorlib">
-    <value>19</value>
+  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 15</value>
   </data>
   <data name="label4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -785,12 +1009,6 @@
   </data>
   <data name="comboBox3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
-  </data>
-  <data name="退出ToolStripMenuItem.Text" xml:space="preserve">
-    <value>退出</value>
-  </data>
-  <data name="comboBox2.Items4" xml:space="preserve">
-    <value>KeyAB чтение / KeyB запись / без увеличения или уменьшения</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
     <value>36, 15</value>
@@ -825,20 +1043,11 @@
   <data name="label8.Size" type="System.Drawing.Size, System.Drawing">
     <value>48, 15</value>
   </data>
-  <data name="flowLayoutPanel3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 2, 2, 2</value>
-  </data>
   <data name="&gt;&gt;labelCurSec.Parent" xml:space="preserve">
     <value>flowLayoutPanel1</value>
   </data>
   <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 0, 2, 0</value>
-  </data>
-  <data name="tableLayoutPanel3.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
-    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="label4" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="keyAEdit" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="label5" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="keyBEdit" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,50,Percent,50" /&gt;&lt;Rows Styles="AutoSize,0,AutoSize,0" /&gt;&lt;/TableLayoutSettings&gt;</value>
-  </data>
-  <data name="导出密钥字典ToolStripMenuItem.Text" xml:space="preserve">
-    <value>导出密钥字典</value>
   </data>
   <data name="comboBox3.Size" type="System.Drawing.Size, System.Drawing">
     <value>211, 23</value>
@@ -846,8 +1055,8 @@
   <data name="flowLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 228</value>
   </data>
-  <data name="label2.Text" xml:space="preserve">
-    <value>第1块</value>
+  <data name="labelCurSec.Location" type="System.Drawing.Point, System.Drawing">
+    <value>2, 0</value>
   </data>
   <data name="groupBox1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
@@ -860,9 +1069,6 @@
   </data>
   <data name="&gt;&gt;comboBox2.Parent" xml:space="preserve">
     <value>flowLayoutPanel3</value>
-  </data>
-  <data name="检查全卡ToolStripMenuItem.Text" xml:space="preserve">
-    <value>检查全卡</value>
   </data>
   <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -894,9 +1100,6 @@
   <data name="flowLayoutPanel2.Size" type="System.Drawing.Size, System.Drawing">
     <value>216, 126</value>
   </data>
-  <data name="label8.Text" xml:space="preserve">
-    <value>2块权限</value>
-  </data>
   <data name="&gt;&gt;block2Edit.Parent" xml:space="preserve">
     <value>flowLayoutPanel2</value>
   </data>
@@ -906,22 +1109,11 @@
   <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
   </data>
-  <data name="comboBox1.Items" xml:space="preserve">
-    <value>KeyAB читать, писать, увеличивать и уменьшать</value>
-  </data>
-  <data name="richTextBox1.Text" xml:space="preserve">
-    <value>欢迎使用M1T的集成编辑器S50HTool！
-打开文件请点左上角文件-打开或Ctrl+O
-</value>
-  </data>
   <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
   </data>
   <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
     <value>tableLayoutPanel1</value>
-  </data>
-  <data name="打开ToolStripMenuItem.Text" xml:space="preserve">
-    <value>打开</value>
   </data>
   <data name="label8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -983,9 +1175,6 @@
   <data name="&gt;&gt;buttonSaveSectorEdit.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;label4.Name" xml:space="preserve">
-    <value>label4</value>
-  </data>
   <data name="&gt;&gt;导出为MCT格式ToolStripMenuItem.Name" xml:space="preserve">
     <value>导出为MCT格式ToolStripMenuItem</value>
   </data>
@@ -998,11 +1187,8 @@
   <data name="&gt;&gt;block1Edit.Parent" xml:space="preserve">
     <value>flowLayoutPanel2</value>
   </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>628, 392</value>
-  </data>
-  <data name="label9.Size" type="System.Drawing.Size, System.Drawing">
-    <value>89, 15</value>
+  <data name="keyBEdit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>110, 17</value>
   </data>
   <data name="labelCurSec.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
@@ -1025,8 +1211,8 @@
   <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
     <value>3</value>
   </data>
-  <data name="tableLayoutPanel2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Yu Gothic UI Semibold, 9pt, style=Bold</value>
+  <data name="flowLayoutPanel3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>2, 2, 2, 2</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>FormHTool</value>
@@ -1040,17 +1226,8 @@
   <data name="&gt;&gt;block0Edit.Parent" xml:space="preserve">
     <value>flowLayoutPanel2</value>
   </data>
-  <data name="flowLayoutPanel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Fill</value>
-  </data>
   <data name="flowLayoutPanel2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
-  </data>
-  <data name="groupBox1.Text" xml:space="preserve">
-    <value>扇区列表</value>
-  </data>
-  <data name="comboBox4.Items" xml:space="preserve">
-    <value>[Необратимый] KeyA: запись / AC: только чтение / KeyB: чтение и запись</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel2.Parent" xml:space="preserve">
     <value>groupBox2</value>
@@ -1073,9 +1250,6 @@
   <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
     <value>flowLayoutPanel3</value>
   </data>
-  <data name="另存为ToolStripMenuItem.Text" xml:space="preserve">
-    <value>另存为</value>
-  </data>
   <data name="&gt;&gt;新建ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
@@ -1091,14 +1265,8 @@
   <data name="&gt;&gt;labelCurSec.Name" xml:space="preserve">
     <value>labelCurSec</value>
   </data>
-  <data name="groupBox2.Text" xml:space="preserve">
-    <value>扇区信息</value>
-  </data>
   <data name="labelCurSec.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 0, 2, 0</value>
-  </data>
-  <data name="comboBox1.Items1" xml:space="preserve">
-    <value>[только для чтения] KeyAB для чтения и амортизации / недоступен для записи и добавляет ценность</value>
   </data>
   <data name="$this.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -1136,9 +1304,6 @@
   <data name="label9.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 0, 2, 0</value>
   </data>
-  <data name="keyBEdit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>110, 17</value>
-  </data>
   <data name="&gt;&gt;comboBox2.Name" xml:space="preserve">
     <value>comboBox2</value>
   </data>
@@ -1151,20 +1316,11 @@
   <data name="flowLayoutPanel3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
-  <data name="comboBox1.Items6" xml:space="preserve">
-    <value>KeyAB чтение и ухудшение / KeyB написание и добавленная стоимость</value>
-  </data>
   <data name="导入MCT格式ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>199, 22</value>
   </data>
-  <data name="comboBox2.Items" xml:space="preserve">
-    <value>KeyAB читать, писать, увеличивать и уменьшать</value>
-  </data>
   <data name="label6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
-  </data>
-  <data name="label6.Text" xml:space="preserve">
-    <value>0块权限</value>
   </data>
   <data name="&gt;&gt;label7.Name" xml:space="preserve">
     <value>label7</value>
@@ -1181,9 +1337,6 @@
   <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="groupBox3.Text" xml:space="preserve">
-    <value>输出</value>
-  </data>
   <data name="flowLayoutPanel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Fill</value>
   </data>
@@ -1195,9 +1348,6 @@
   </data>
   <data name="comboBox4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
-  </data>
-  <data name="buttonSaveSectorEdit.Size" type="System.Drawing.Size, System.Drawing">
-    <value>102, 27</value>
   </data>
   <data name="&gt;&gt;keyAEdit.Parent" xml:space="preserve">
     <value>tableLayoutPanel3</value>
@@ -1211,14 +1361,8 @@
   <data name="&gt;&gt;comboBox4.Name" xml:space="preserve">
     <value>comboBox4</value>
   </data>
-  <data name="comboBox1.Items3" xml:space="preserve">
-    <value>KeyB чтение / запись / не сложение и вычитание</value>
-  </data>
   <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
     <value>1</value>
-  </data>
-  <data name="comboBox3.Items" xml:space="preserve">
-    <value>KeyAB читать, писать, увеличивать и уменьшать</value>
   </data>
   <data name="&gt;&gt;label5.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1235,11 +1379,8 @@
   <data name="tableLayoutPanel1.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
     <value>GrowAndShrink</value>
   </data>
-  <data name="&gt;&gt;comboBox3.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="label3.Text" xml:space="preserve">
-    <value>第2块</value>
+  <data name="&gt;&gt;label8.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="&gt;&gt;文件ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1259,23 +1400,17 @@
   <data name="&gt;&gt;label9.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="label6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>2, 0, 2, 0</value>
+  <data name="&gt;&gt;修改UIDToolStripMenuItem.Name" xml:space="preserve">
+    <value>修改UIDToolStripMenuItem</value>
   </data>
   <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
     <value>194, 2</value>
-  </data>
-  <data name="导出为MCT格式ToolStripMenuItem.Text" xml:space="preserve">
-    <value>导出为MCT格式</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
     <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="comboBox1.Items2" xml:space="preserve">
-    <value>[только для чтения] KeyAB для чтения / записи, а также для увеличения или уменьшения</value>
   </data>
   <data name="&gt;&gt;keyBEdit.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1291,12 +1426,6 @@
   </data>
   <data name="block0Edit.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 17</value>
-  </data>
-  <data name="comboBox4.Items1" xml:space="preserve">
-    <value>KeyA: запись / AC: чтение / запись / KeyB: чтение и запись</value>
-  </data>
-  <data name="comboBox4.Items6" xml:space="preserve">
-    <value>[Необратимый] KeyA: невозможно чтение / запись / AC: AB только для чтения / KeyB: невозможно чтение или запись</value>
   </data>
   <data name="&gt;&gt;label4.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1319,17 +1448,11 @@
   <data name="&gt;&gt;列出全卡密钥ToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="comboBox1.Items5" xml:space="preserve">
-    <value>[Только для чтения] KeyB для чтения / не для записи и увеличения или уменьшения</value>
-  </data>
-  <data name="导出密钥字典ToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
-    <value>Ctrl+N</value>
+  <data name="&gt;&gt;comboBox3.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="&gt;&gt;block0Edit.Name" xml:space="preserve">
     <value>block0Edit</value>
-  </data>
-  <data name="导入MCT格式ToolStripMenuItem.Text" xml:space="preserve">
-    <value>导入MCT格式</value>
   </data>
   <data name="&gt;&gt;label1.Parent" xml:space="preserve">
     <value>flowLayoutPanel2</value>
@@ -1348,9 +1471,6 @@
   </data>
   <data name="block0Edit.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
-  </data>
-  <data name="comboBox1.Items7" xml:space="preserve">
-    <value>[только для чтения] заблокировать сектор</value>
   </data>
   <data name="检查并纠正全卡ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>199, 22</value>
@@ -1373,29 +1493,20 @@
   <data name="&gt;&gt;buttonSaveSectorEdit.Parent" xml:space="preserve">
     <value>flowLayoutPanel1</value>
   </data>
-  <data name="comboBox1.Items4" xml:space="preserve">
-    <value>KeyAB чтение / KeyB запись / без увеличения или уменьшения</value>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>628, 392</value>
   </data>
   <data name="&gt;&gt;导出密钥字典ToolStripMenuItem.Name" xml:space="preserve">
     <value>导出密钥字典ToolStripMenuItem</value>
   </data>
-  <data name="label9.Text" xml:space="preserve">
-    <value>Key/ACbits权限</value>
+  <data name="&gt;&gt;label4.Name" xml:space="preserve">
+    <value>label4</value>
   </data>
   <data name="&gt;&gt;block2Edit.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="文件ToolStripMenuItem.Text" xml:space="preserve">
-    <value>文件</value>
-  </data>
-  <data name="comboBox4.Items3" xml:space="preserve">
-    <value>KeyA: B запись / AC: A только для чтения B чтение / запись / KeyB: B запись</value>
-  </data>
   <data name="block2Edit.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 101</value>
-  </data>
-  <data name="comboBox2.Items1" xml:space="preserve">
-    <value>[только для чтения] KeyAB для чтения и амортизации / недоступен для записи и добавляет ценность</value>
   </data>
   <data name="&gt;&gt;label6.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1408,9 +1519,6 @@
   </data>
   <data name="&gt;&gt;block1Edit.Type" xml:space="preserve">
     <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="新建ToolStripMenuItem.Text" xml:space="preserve">
-    <value>新建</value>
   </data>
   <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
     <value>groupBox2</value>
@@ -1433,8 +1541,8 @@
   <data name="&gt;&gt;toolStripSeparator1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripSeparator, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="comboBox4.Items2" xml:space="preserve">
-    <value>[Необратимый] KeyA: невозможно чтение / запись / AC: только для чтения / KeyB: чтение</value>
+  <data name="tableLayoutPanel2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Yu Gothic UI Semibold, 9pt, style=Bold</value>
   </data>
   <data name="&gt;&gt;Column1.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1444,9 +1552,6 @@
   </data>
   <data name="flowLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 2</value>
-  </data>
-  <data name="comboBox3.Items1" xml:space="preserve">
-    <value>[только для чтения] KeyAB для чтения и амортизации / недоступен для записи и добавляет ценность</value>
   </data>
   <data name="&gt;&gt;keyBEdit.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -1469,12 +1574,6 @@
   <data name="tableLayoutPanel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
   </data>
-  <data name="buttonSaveSectorEdit.Location" type="System.Drawing.Point, System.Drawing">
-    <value>2, 17</value>
-  </data>
-  <data name="工具ToolStripMenuItem.Text" xml:space="preserve">
-    <value>工具</value>
-  </data>
   <data name="richTextBox1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Yu Gothic UI, 9.75pt</value>
   </data>
@@ -1484,14 +1583,11 @@
   <data name="&gt;&gt;block2Edit.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
-  <data name="comboBox4.Items5" xml:space="preserve">
-    <value>KeyA: невозможно чтение / запись / AC: A только для чтения B чтение / запись / KeyB: невозможно чтение или запись</value>
+  <data name="comboBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
   </data>
-  <data name="richTextBox1.Lines[1]" xml:space="preserve">
-    <value>Чтобы открыть файл, пожалуйста, нажмите на Файл в верхнем левом углу - Открыть или Ctrl + O</value>
-  </data>
-  <data name="comboBox2.Items3" xml:space="preserve">
-    <value>KeyB чтение / запись / не сложение и вычитание</value>
+  <data name="labelCurSec.Size" type="System.Drawing.Size, System.Drawing">
+    <value>113, 15</value>
   </data>
   <data name="dataGridView1.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 20</value>
@@ -1508,8 +1604,8 @@
   <data name="&gt;&gt;tableLayoutPanel3.Name" xml:space="preserve">
     <value>tableLayoutPanel3</value>
   </data>
-  <data name="&gt;&gt;修改UIDToolStripMenuItem.Name" xml:space="preserve">
-    <value>修改UIDToolStripMenuItem</value>
+  <data name="buttonSaveSectorEdit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>102, 27</value>
   </data>
   <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 42</value>
@@ -1517,14 +1613,8 @@
   <data name="block0Edit.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
   </data>
-  <data name="labelCurSec.Location" type="System.Drawing.Point, System.Drawing">
-    <value>2, 0</value>
-  </data>
   <data name="groupBox3.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
-  </data>
-  <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
-    <value>1</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
     <value>4</value>
@@ -1544,23 +1634,14 @@
   <data name="&gt;&gt;label6.Name" xml:space="preserve">
     <value>label6</value>
   </data>
-  <data name="修改UIDToolStripMenuItem.Text" xml:space="preserve">
-    <value>修改UID</value>
-  </data>
-  <data name="comboBox4.Items4" xml:space="preserve">
-    <value>[необратимый] KeyA: запись B / AC: только чтение AB / KeyB: запись B</value>
+  <data name="tableLayoutPanel2.ColumnCount" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
   <data name="label8.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 84</value>
   </data>
-  <data name="comboBox2.Items2" xml:space="preserve">
-    <value>[только для чтения] KeyAB для чтения / записи, а также для увеличения или уменьшения</value>
-  </data>
   <data name="label6.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
-  </data>
-  <data name="comboBox3.Items3" xml:space="preserve">
-    <value>KeyB чтение / запись / не сложение и вычитание</value>
   </data>
   <data name="导入MCT格式ToolStripMenuItem.ShortcutKeys" type="System.Windows.Forms.Keys, System.Windows.Forms">
     <value>Ctrl+L</value>
@@ -1568,22 +1649,4 @@
   <data name="tableLayoutPanel3.Location" type="System.Drawing.Point, System.Drawing">
     <value>2, 182</value>
   </data>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>ru</value>
-  </metadata>
-  <metadata name="s50BindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>155, 17</value>
-  </metadata>
-  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
-  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>25</value>
-  </metadata>
-  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>True</value>
-  </metadata>
 </root>
